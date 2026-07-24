@@ -1,0 +1,27 @@
+name: doe-feed
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python fetch_feed.py
+      - name: commit feed
+        run: |
+          git config user.name  "doe-feed-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/feed.json state/prev.json
+          git commit -m "chore: update feed $(date -u +%F)" || echo "no changes"
+          git push
