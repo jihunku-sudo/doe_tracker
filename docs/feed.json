@@ -1,35 +1,10 @@
 {
-  "generated_at": "2026-07-24T04:52:08Z",
+  "generated_at": "2026-07-24T05:57:52Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/nnsa/articles/nnsa-delivers-next-generation-global-burst-detector-space-force-gps-satellite",
-    "https://www.energy.gov/articles/fact-sheet-department-energy-ensuring-affordable-energy-access-ohio-while-powering-future",
-    "https://www.energy.gov/articles/fact-sheet-energy-department-unleashing-beautiful-clean-coal",
-    "https://www.energy.gov/articles/fact-sheet-energy-department-lowering-electricity-costs-georgia-and-alabama",
-    "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-sunwealth-deploy-solar-pv-and-battery-energy",
-    "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-grain-belt-express-construct-high-voltage-direct",
-    "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-rivian-support-construction-ev-manufacturing",
-    "https://www.energy.gov/edf/articles/el-departamento-de-energia-de-estados-unidos-anuncia-una-garantia-de-prestamo-parcial",
-    "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-eos-energy-enterprises-produce-next-generation",
-    "https://www.energy.gov/edf/articles/lpo-offers-conditional-commitment-redwood-materials-produce-critical-electric-vehicle",
-    "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-ioneer-rhyolite-ridge-advance-domestic-production",
-    "https://www.energy.gov/edf/articles/lpo-offers-conditional-commitment-loan-build-new-ev-battery-cell-manufacturing",
-    "https://www.energy.gov/edf/articles/lpo-offers-first-conditional-commitment-critical-materials-project-syrah-vidalia",
-    "https://www.energy.gov/cio/articles/vulnerability-disclosure-policy",
-    "https://www.energy.gov/articles/energy-department-announces-50-million-investment-advance-affordable-reliable-and-secure",
-    "https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science",
-    "https://www.energy.gov/articles/energy-department-announces-500-million-strengthen-domestic-critical-materials-processing",
-    "https://www.energy.gov/articles/energy-department-announces-19b-investment-critical-grid-infrastructure-reduce-electricity",
-    "https://www.energy.gov/articles/department-energy-seeks-hosts-nuclear-lifecycle-innovation-campuses",
-    "https://www.energy.gov/articles/us-department-energy-awards-27-billion-restore-american-uranium-enrichment",
-    "https://www.energy.gov/articles/energy-department-announces-355-million-expand-domestic-production-critical-minerals-and",
-    "https://www.energy.gov/articles/energy-department-awards-contracts-begin-refilling-strategic-petroleum-reserve",
-    "https://www.energy.gov/articles/energy-department-issues-solicitation-purchase-crude-oil-strategic-petroleum-reserve",
-    "https://www.energy.gov/articles/energy-department-announces-625-million-investment-reinvigorate-and-expand-americas-coal"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/nnsa/articles/nnsa-delivers-next-generation-global-burst-detector-space-force-gps-satellite",
@@ -38,9 +13,16 @@
       "url": "https://www.energy.gov/nnsa/articles/nnsa-delivers-next-generation-global-burst-detector-space-force-gps-satellite",
       "source": "foa",
       "category": "NOFO",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/fact-sheet-department-energy-ensuring-affordable-energy-access-ohio-while-powering-future",
@@ -49,9 +31,16 @@
       "url": "https://www.energy.gov/articles/fact-sheet-department-energy-ensuring-affordable-energy-access-ohio-while-powering-future",
       "source": "foa",
       "category": "NOFO",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/fact-sheet-energy-department-unleashing-beautiful-clean-coal",
@@ -60,9 +49,16 @@
       "url": "https://www.energy.gov/articles/fact-sheet-energy-department-unleashing-beautiful-clean-coal",
       "source": "foa",
       "category": "NOFO",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/fact-sheet-energy-department-lowering-electricity-costs-georgia-and-alabama",
@@ -71,9 +67,16 @@
       "url": "https://www.energy.gov/articles/fact-sheet-energy-department-lowering-electricity-costs-georgia-and-alabama",
       "source": "foa",
       "category": "NOFO",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-sunwealth-deploy-solar-pv-and-battery-energy",
@@ -84,7 +87,14 @@
       "category": "loan-project",
       "sector": "battery",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-grain-belt-express-construct-high-voltage-direct",
@@ -95,7 +105,14 @@
       "category": "loan-project",
       "sector": "grid",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-rivian-support-construction-ev-manufacturing",
@@ -106,7 +123,14 @@
       "category": "loan-project",
       "sector": "ev",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/el-departamento-de-energia-de-estados-unidos-anuncia-una-garantia-de-prestamo-parcial",
@@ -115,9 +139,16 @@
       "url": "https://www.energy.gov/edf/articles/el-departamento-de-energia-de-estados-unidos-anuncia-una-garantia-de-prestamo-parcial",
       "source": "projects",
       "category": "loan-project",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-eos-energy-enterprises-produce-next-generation",
@@ -128,7 +159,14 @@
       "category": "loan-project",
       "sector": "battery",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/lpo-offers-conditional-commitment-redwood-materials-produce-critical-electric-vehicle",
@@ -139,7 +177,14 @@
       "category": "loan-project",
       "sector": "battery",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/lpo-announces-conditional-commitment-ioneer-rhyolite-ridge-advance-domestic-production",
@@ -150,7 +195,14 @@
       "category": "loan-project",
       "sector": "battery",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/lpo-offers-conditional-commitment-loan-build-new-ev-battery-cell-manufacturing",
@@ -161,7 +213,14 @@
       "category": "loan-project",
       "sector": "battery",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/edf/articles/lpo-offers-first-conditional-commitment-critical-materials-project-syrah-vidalia",
@@ -172,7 +231,14 @@
       "category": "loan-project",
       "sector": "minerals",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/cio/articles/vulnerability-disclosure-policy",
@@ -181,9 +247,16 @@
       "url": "https://www.energy.gov/cio/articles/vulnerability-disclosure-policy",
       "source": "foa",
       "category": "NOFO",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-50-million-investment-advance-affordable-reliable-and-secure",
@@ -192,9 +265,16 @@
       "url": "https://www.energy.gov/articles/energy-department-announces-50-million-investment-advance-affordable-reliable-and-secure",
       "source": "foa",
       "category": "NOFO",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": 50,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science",
@@ -203,9 +283,16 @@
       "url": "https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science",
       "source": "foa",
       "category": "NOFO",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": 293,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-500-million-strengthen-domestic-critical-materials-processing",
@@ -216,7 +303,14 @@
       "category": "NOFO",
       "sector": "minerals",
       "amount_usd_m": 500,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-19b-investment-critical-grid-infrastructure-reduce-electricity",
@@ -226,8 +320,15 @@
       "source": "foa",
       "category": "NOFO",
       "sector": "grid",
-      "amount_usd_m": 1900,
-      "blurb": ""
+      "amount_usd_m": null,
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/department-energy-seeks-hosts-nuclear-lifecycle-innovation-campuses",
@@ -235,10 +336,17 @@
       "title": "Department of Energy Seeks Hosts for Nuclear Lifecycle Innovation Campuses",
       "url": "https://www.energy.gov/articles/department-energy-seeks-hosts-nuclear-lifecycle-innovation-campuses",
       "source": "foa",
-      "category": "RFI",
+      "category": "NOFO",
       "sector": "nuclear",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/us-department-energy-awards-27-billion-restore-american-uranium-enrichment",
@@ -249,7 +357,14 @@
       "category": "Award",
       "sector": "nuclear",
       "amount_usd_m": 2700,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-355-million-expand-domestic-production-critical-minerals-and",
@@ -260,7 +375,14 @@
       "category": "NOFO",
       "sector": "minerals",
       "amount_usd_m": 355,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-awards-contracts-begin-refilling-strategic-petroleum-reserve",
@@ -269,9 +391,16 @@
       "url": "https://www.energy.gov/articles/energy-department-awards-contracts-begin-refilling-strategic-petroleum-reserve",
       "source": "foa",
       "category": "Award",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-issues-solicitation-purchase-crude-oil-strategic-petroleum-reserve",
@@ -280,9 +409,16 @@
       "url": "https://www.energy.gov/articles/energy-department-issues-solicitation-purchase-crude-oil-strategic-petroleum-reserve",
       "source": "foa",
       "category": "Procurement",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-625-million-investment-reinvigorate-and-expand-americas-coal",
@@ -291,9 +427,16 @@
       "url": "https://www.energy.gov/articles/energy-department-announces-625-million-investment-reinvigorate-and-expand-americas-coal",
       "source": "foa",
       "category": "NOFO",
-      "sector": null,
+      "sector": "mixed",
       "amount_usd_m": 625,
-      "blurb": ""
+      "blurb": "",
+      "enriched": false,
+      "sponsor": null,
+      "location": null,
+      "stage": null,
+      "policy": null,
+      "detail_ai": null,
+      "era": null
     }
   ]
 }
