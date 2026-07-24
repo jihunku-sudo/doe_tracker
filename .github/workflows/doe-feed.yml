@@ -22,6 +22,6 @@ jobs:
         run: |
           git config user.name  "doe-feed-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add doe-feed/docs/feed.json doe-feed/state/prev.json
+          git add docs/feed.json state/prev.json
           git commit -m "chore: update feed $(date -u +%F)" || echo "no changes"
           git push
