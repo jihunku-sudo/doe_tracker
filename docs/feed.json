@@ -1,28 +1,30 @@
 {
-  "generated_at": "2026-07-26T07:55:54Z",
+  "generated_at": "2026-07-27T10:57:57Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-secretary-secures-grid-across-17-states-amid-period-hot-weather"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/nnsa/articles/nnsa-delivers-next-generation-global-burst-detector-space-force-gps-satellite",
-      "date": "",
-      "title": "NNSA Delivers Next-Generation Global Burst Detector for Space Force GPS Satellite",
-      "url": "https://www.energy.gov/nnsa/articles/nnsa-delivers-next-generation-global-burst-detector-space-force-gps-satellite",
+      "id": "https://www.energy.gov/articles/energy-secretary-secures-grid-across-17-states-amid-period-hot-weather",
+      "date": "2026-07-26",
+      "title": "Energy Secretary Secures Grid Across 17 States Amid Period of Hot Weather",
+      "url": "https://www.energy.gov/articles/energy-secretary-secures-grid-across-17-states-amid-period-hot-weather",
       "source": "foa",
       "category": "NOFO",
-      "sector": "mixed",
-      "amount_usd_m": null,
+      "sector": "grid",
+      "amount_usd_m": 44000,
       "blurb": "",
-      "enriched": false,
-      "sponsor": null,
-      "location": null,
-      "stage": null,
+      "enriched": true,
+      "sponsor": "DOE Grant Program",
+      "location": "Nationwide",
+      "stage": 1,
       "policy": null,
-      "detail_ai": null,
-      "era": null
+      "detail_ai": "Energy Secretary Secures Grid Across 17 States Amid Period of Hot Weather Secretary Wright issued an emergency order to stabilize the grid to mitigate the risk of blackouts across during hot weather conditions Energy.gov July 26, 2026 Estimated Read Time min WASHINGTON— The U.S. Department of Energy",
+      "era": "edf"
     },
     {
       "id": "https://www.energy.gov/articles/fact-sheet-department-energy-ensuring-affordable-energy-access-ohio-while-powering-future",

@@ -1,1 +1,14 @@
-{}
+{
+  "https://www.energy.gov/articles/energy-secretary-secures-grid-across-17-states-amid-period-hot-weather": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Nationwide",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Secretary Secures Grid Across 17 States Amid Period of Hot Weather Secretary Wright issued an emergency order to stabilize the grid to mitigate the risk of blackouts across during hot weather conditions Energy.gov July 26, 2026 Estimated Read Time min WASHINGTON— The U.S. Department of Energy",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 44000,
+    "date": "2026-07-26"
+  }
+}
