@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-07-27T10:57:57Z",
+  "generated_at": "2026-07-28T08:05:44Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/articles/energy-secretary-secures-grid-across-17-states-amid-period-hot-weather"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/articles/energy-secretary-secures-grid-across-17-states-amid-period-hot-weather",
