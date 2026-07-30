@@ -10,5 +10,17 @@
     "sector": "grid",
     "amount_usd_m": 44000,
     "date": "2026-07-26"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-partnership-expand-reliable-affordable-energy-access-and-power": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Kentucky",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Department Announces Partnership to Expand Reliable, Affordable Energy Access and Power America’s AI Future in Western Kentucky The U.S. Department of Energy (DOE) today announced a landmark partnership expected to create approximately 8,000 construction jobs and 600 permanent jobs.",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 100000,
+    "date": "2026-07-29"
   }
 }

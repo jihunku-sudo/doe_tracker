@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-07-29T08:11:44Z",
+  "generated_at": "2026-07-30T07:56:21Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-department-announces-partnership-expand-reliable-affordable-energy-access-and-power"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/energy-secretary-secures-grid-across-17-states-amid-period-hot-weather",
-      "date": "2026-07-26",
-      "title": "Energy Secretary Secures Grid Across 17 States Amid Period of Hot Weather",
-      "url": "https://www.energy.gov/articles/energy-secretary-secures-grid-across-17-states-amid-period-hot-weather",
+      "id": "https://www.energy.gov/articles/energy-department-announces-partnership-expand-reliable-affordable-energy-access-and-power",
+      "date": "2026-07-29",
+      "title": "Energy Department Announces Partnership to Expand Reliable, Affordable Energy Access and Power America’s AI Future in Western Kentucky",
+      "url": "https://www.energy.gov/articles/energy-department-announces-partnership-expand-reliable-affordable-energy-access-and-power",
       "source": "foa",
       "category": "NOFO",
       "sector": "grid",
-      "amount_usd_m": 44000,
+      "amount_usd_m": 100000,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "Nationwide",
+      "location": "Kentucky",
       "stage": 1,
       "policy": null,
-      "detail_ai": "Energy Secretary Secures Grid Across 17 States Amid Period of Hot Weather Secretary Wright issued an emergency order to stabilize the grid to mitigate the risk of blackouts across during hot weather conditions Energy.gov July 26, 2026 Estimated Read Time min WASHINGTON— The U.S. Department of Energy",
+      "detail_ai": "Energy Department Announces Partnership to Expand Reliable, Affordable Energy Access and Power America’s AI Future in Western Kentucky The U.S. Department of Energy (DOE) today announced a landmark partnership expected to create approximately 8,000 construction jobs and 600 permanent jobs.",
       "era": "edf"
     },
     {
