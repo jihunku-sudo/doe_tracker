@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-07-30T07:56:21Z",
+  "generated_at": "2026-07-31T09:34:32Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/articles/energy-department-announces-partnership-expand-reliable-affordable-energy-access-and-power"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-partnership-expand-reliable-affordable-energy-access-and-power",
