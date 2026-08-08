@@ -178,5 +178,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-07-20"
+  },
+  "https://www.energy.gov/articles/energy-department-launches-100-million-initiative-build-americas-critical-minerals": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Nationwide",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Department Launches $100 Million Initiative to Build America’s Critical Minerals Workforce, Strengthen Domestic Supply Chains The PROSPECT program will help train the next generation of American workers needed to secure U.S. energy and mineral independence Energy.gov August 7, 2026 Estimated ",
+    "era": "edf",
+    "sector": "minerals",
+    "amount_usd_m": 100,
+    "date": "2026-08-07"
   }
 }

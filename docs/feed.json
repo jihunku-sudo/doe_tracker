@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-08-07T23:28:00Z",
+  "generated_at": "2026-08-08T23:22:09Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-department-launches-100-million-initiative-build-americas-critical-minerals"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/em/articles/reuse-wartime-lands-volunteer-state-launches-nations-next-american-energy-hub",
-      "date": "2026-08-04",
-      "title": "Reuse of Wartime Lands in Volunteer State Launches Nation’s Next American Energy Hub",
-      "url": "https://www.energy.gov/em/articles/reuse-wartime-lands-volunteer-state-launches-nations-next-american-energy-hub",
+      "id": "https://www.energy.gov/articles/energy-department-launches-100-million-initiative-build-americas-critical-minerals",
+      "date": "2026-08-07",
+      "title": "Energy Department Launches $100 Million Initiative to Build America’s Critical Minerals Workforce, Strengthen Domestic Supply Chains",
+      "url": "https://www.energy.gov/articles/energy-department-launches-100-million-initiative-build-americas-critical-minerals",
       "source": "foa",
       "category": "NOFO",
-      "sector": "nuclear",
-      "amount_usd_m": 10000,
+      "sector": "minerals",
+      "amount_usd_m": 100,
       "blurb": "",
       "enriched": true,
-      "sponsor": null,
-      "location": "Tennessee",
-      "stage": 2,
+      "sponsor": "DOE Grant Program",
+      "location": "Nationwide",
+      "stage": 1,
       "policy": null,
-      "detail_ai": "Reuse of Wartime Lands in Volunteer State Launches Nation’s Next American Energy Hub The U.S. Department of Energy’s Office of Environmental Management recently highlighted its American Energy Hubs, an initiative that is transforming former Manhattan Project and Cold War sites into engines for innov",
+      "detail_ai": "Energy Department Launches $100 Million Initiative to Build America’s Critical Minerals Workforce, Strengthen Domestic Supply Chains The PROSPECT program will help train the next generation of American workers needed to secure U.S. energy and mineral independence Energy.gov August 7, 2026 Estimated ",
       "era": "edf"
     },
     {
