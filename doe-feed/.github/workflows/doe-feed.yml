@@ -2,8 +2,8 @@ name: doe-feed
 
 on:
   schedule:
-    - cron: "0 23 * * *"
-  workflow_dispatch:
+    - cron: "0 23 * * *"   # UTC 23:00 = KST 익일 08:00 매일 자동 실행
+  workflow_dispatch:        # Actions 탭에서 수동 실행 가능
 
 permissions:
   contents: write
@@ -13,15 +13,67 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - run: pip install requests beautifulsoup4
-      - run: python fetch_feed.py
+
+      # 목록 수집 + 기사 본문 보강(규칙 기반, API 키 불필요)
+      # items=0 이면 스크립트가 exit 1 → 이후 커밋 단계가 실행되지 않아
+      # 마지막 정상 feed.json 이 덮어써지지 않는다.
+      - run: python doe-feed/fetch_feed.py
+
       - name: commit feed
         run: |
           git config user.name  "doe-feed-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add docs/feed.json state/prev.json
+          git add docs/feed.json state/prev.json state/article_cache.json
           git commit -m "chore: update feed $(date -u +%F)" || echo "no changes"
           git push
+
+      # 신규 항목이 있을 때만 Teams 로 통지.
+      # TEAMS_WEBHOOK 시크릿이 없으면 조용히 건너뛴다(설정 전까지 무해).
+      # 웹훅 URL 은 절대 코드/로그에 남기지 않는다 — 시크릿으로만 주입.
+      - name: notify new items
+        env:
+          TEAMS_WEBHOOK: ${{ secrets.TEAMS_WEBHOOK }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request, urllib.error
+
+          hook = os.environ.get("TEAMS_WEBHOOK", "").strip()
+          feed = json.load(open("docs/feed.json", encoding="utf-8"))
+          new  = set(feed.get("new_since_last") or [])
+
+          if not new:
+              print("[skip] 신규 항목 없음")
+              raise SystemExit(0)
+          if not hook:
+              print(f"[skip] 신규 {len(new)}건이지만 TEAMS_WEBHOOK 미설정")
+              raise SystemExit(0)
+
+          lines = [
+              f"- [{it['title']}]({it['url']}) · {it.get('date') or '날짜미상'}"
+              for it in feed["items"] if it["url"] in new
+          ][:10]
+          more = len(new) - len(lines)
+          if more > 0:
+              lines.append(f"- 외 {more}건")
+
+          body = json.dumps(
+              {"text": "**DOE 신규 발표 감지**\n\n" + "\n".join(lines)}
+          ).encode("utf-8")
+          req = urllib.request.Request(
+              hook, data=body, headers={"Content-Type": "application/json"}
+          )
+          try:
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  print(f"[ok] 웹훅 전송 {r.status} · 신규 {len(new)}건")
+          except urllib.error.HTTPError as e:
+              # 웹훅 실패가 피드 갱신 자체를 실패로 만들지는 않도록 경고만 남긴다
+              print(f"[warn] 웹훅 HTTP {e.code}")
+          except Exception as e:
+              print(f"[warn] 웹훅 실패: {type(e).__name__}")
+          PY
