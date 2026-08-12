@@ -190,5 +190,29 @@
     "sector": "minerals",
     "amount_usd_m": 100,
     "date": "2026-08-07"
+  },
+  "https://www.energy.gov/articles/energy-secretary-continues-progress-strengthen-energy-reliability-puerto-rico-0": {
+    "enriched": true,
+    "sponsor": null,
+    "location": null,
+    "stage": 2,
+    "policy": null,
+    "detail_ai": "Energy Secretary Continues Progress to Strengthen Energy Reliability in Puerto Rico As Puerto Rico faces rising electricity demand and hurricane season, DOE continues its efforts to strengthen the island’s electric grid. Energy.gov August 10, 2026 Estimated Read Time min WASHINGTON— The U.S.",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 100,
+    "date": "2026-08-10"
+  },
+  "https://www.energy.gov/articles/energy-secretary-announces-cancellation-three-proposed-national-interest-electric": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Alabama, Georgia, Texas",
+    "stage": 1,
+    "policy": "Title 17 §1706 EDFP",
+    "detail_ai": "Energy Secretary Announces Cancellation of Three Proposed National Interest Electric Transmission Corridors Secretary of Energy Chris Wright today announced that the U.S. Department of Energy will not move forward with designating the three proposed National Interest Electric Transmission Corridors ",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 26500,
+    "date": "2026-08-12"
   }
 }

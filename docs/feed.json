@@ -1,27 +1,30 @@
 {
-  "generated_at": "2026-08-11T23:33:46Z",
+  "generated_at": "2026-08-12T23:34:13Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-secretary-continues-progress-strengthen-energy-reliability-puerto-rico-0",
+    "https://www.energy.gov/articles/energy-secretary-announces-cancellation-three-proposed-national-interest-electric"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/energy-department-launches-100-million-initiative-build-americas-critical-minerals",
-      "date": "2026-08-07",
-      "title": "Energy Department Launches $100 Million Initiative to Build America’s Critical Minerals Workforce, Strengthen Domestic Supply Chains",
-      "url": "https://www.energy.gov/articles/energy-department-launches-100-million-initiative-build-americas-critical-minerals",
-      "source": "foa",
-      "category": "NOFO",
-      "sector": "minerals",
+      "id": "https://www.energy.gov/articles/energy-secretary-continues-progress-strengthen-energy-reliability-puerto-rico-0",
+      "date": "2026-08-10",
+      "title": "Energy Secretary Continues Progress to Strengthen Energy Reliability in Puerto Rico",
+      "url": "https://www.energy.gov/articles/energy-secretary-continues-progress-strengthen-energy-reliability-puerto-rico-0",
+      "source": "projects",
+      "category": "loan-project",
+      "sector": "grid",
       "amount_usd_m": 100,
       "blurb": "",
       "enriched": true,
-      "sponsor": "DOE Grant Program",
-      "location": "Nationwide",
-      "stage": 1,
+      "sponsor": null,
+      "location": null,
+      "stage": 2,
       "policy": null,
-      "detail_ai": "Energy Department Launches $100 Million Initiative to Build America’s Critical Minerals Workforce, Strengthen Domestic Supply Chains The PROSPECT program will help train the next generation of American workers needed to secure U.S. energy and mineral independence Energy.gov August 7, 2026 Estimated ",
+      "detail_ai": "Energy Secretary Continues Progress to Strengthen Energy Reliability in Puerto Rico As Puerto Rico faces rising electricity demand and hurricane season, DOE continues its efforts to strengthen the island’s electric grid. Energy.gov August 10, 2026 Estimated Read Time min WASHINGTON— The U.S.",
       "era": "edf"
     },
     {
@@ -257,6 +260,24 @@
       "policy": null,
       "detail_ai": null,
       "era": null
+    },
+    {
+      "id": "https://www.energy.gov/articles/energy-secretary-announces-cancellation-three-proposed-national-interest-electric",
+      "date": "2026-08-12",
+      "title": "Energy Secretary Announces Cancellation of Three Proposed National Interest Electric Transmission Corridors",
+      "url": "https://www.energy.gov/articles/energy-secretary-announces-cancellation-three-proposed-national-interest-electric",
+      "source": "foa",
+      "category": "NOFO",
+      "sector": "grid",
+      "amount_usd_m": 26500,
+      "blurb": "",
+      "enriched": true,
+      "sponsor": "DOE Grant Program",
+      "location": "Alabama, Georgia, Texas",
+      "stage": 1,
+      "policy": "Title 17 §1706 EDFP",
+      "detail_ai": "Energy Secretary Announces Cancellation of Three Proposed National Interest Electric Transmission Corridors Secretary of Energy Chris Wright today announced that the U.S. Department of Energy will not move forward with designating the three proposed National Interest Electric Transmission Corridors ",
+      "era": "edf"
     },
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-50-million-investment-advance-affordable-reliable-and-secure",
