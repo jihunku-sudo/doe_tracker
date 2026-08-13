@@ -214,5 +214,17 @@
     "sector": "grid",
     "amount_usd_m": 26500,
     "date": "2026-08-12"
+  },
+  "https://www.energy.gov/em/articles/doe-strengthens-hanford-advisory-board-empowers-local-community": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Nationwide",
+    "stage": 6,
+    "policy": null,
+    "detail_ai": "DOE Strengthens Hanford Advisory Board, Empowers Local Community The U.S. Department of Energy’s Office of Environmental Management, in coordination with the Hanford Field Office, is strengthening the Hanford Advisory Board to enhance engagement with those who live closest to Hanford and to align wi",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": null,
+    "date": "2026-08-12"
   }
 }
