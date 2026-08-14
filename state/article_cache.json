@@ -226,5 +226,17 @@
     "sector": "grid",
     "amount_usd_m": null,
     "date": "2026-08-12"
+  },
+  "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Hydrocarbons and Geothermal Energy Office Announces Up to $10.75 Million to Support University Training and Research for Subsurface Energy Development HGEO announced up to $10.75 million for U.S. colleges and universities, through its University Training and Research Program, to perform early-stage ",
+    "era": "edf",
+    "sector": "mixed",
+    "amount_usd_m": 10,
+    "date": "2026-08-14"
   }
 }

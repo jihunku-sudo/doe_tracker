@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-13T23:34:37Z",
+  "generated_at": "2026-08-14T23:16:04Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
   "new_since_last": [
-    "https://www.energy.gov/em/articles/doe-strengthens-hanford-advisory-board-empowers-local-community"
+    "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university"
   ],
   "items": [
     {
-      "id": "https://www.energy.gov/em/articles/doe-strengthens-hanford-advisory-board-empowers-local-community",
-      "date": "2026-08-12",
-      "title": "DOE Strengthens Hanford Advisory Board, Empowers Local Community",
-      "url": "https://www.energy.gov/em/articles/doe-strengthens-hanford-advisory-board-empowers-local-community",
+      "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university",
+      "date": "2026-08-14",
+      "title": "Hydrocarbons and Geothermal Energy Office Announces Up to $10.75 Million to Support University Training and Research for Subsurface Energy Development",
+      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university",
       "source": "foa",
       "category": "NOFO",
-      "sector": "grid",
-      "amount_usd_m": null,
+      "sector": "mixed",
+      "amount_usd_m": 10,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "Nationwide",
-      "stage": 6,
+      "location": null,
+      "stage": 1,
       "policy": null,
-      "detail_ai": "DOE Strengthens Hanford Advisory Board, Empowers Local Community The U.S. Department of Energy’s Office of Environmental Management, in coordination with the Hanford Field Office, is strengthening the Hanford Advisory Board to enhance engagement with those who live closest to Hanford and to align wi",
+      "detail_ai": "Hydrocarbons and Geothermal Energy Office Announces Up to $10.75 Million to Support University Training and Research for Subsurface Energy Development HGEO announced up to $10.75 million for U.S. colleges and universities, through its University Training and Research Program, to perform early-stage ",
       "era": "edf"
     },
     {
