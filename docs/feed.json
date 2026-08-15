@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-08-14T23:16:04Z",
+  "generated_at": "2026-08-15T23:13:57Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university",
