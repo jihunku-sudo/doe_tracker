@@ -238,5 +238,17 @@
     "sector": "mixed",
     "amount_usd_m": 10,
     "date": "2026-08-14"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-500-million-secure-americas-critical-mineral-and-battery": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Department Announces $500 Million to Secure America's Critical Mineral and Battery Supply Chains Seven selected projects will secure American critical supply chains, bolster U.S. economic and national security, and advance American energy dominance Energy.gov August 20, 2026 Estimated Read Ti",
+    "era": "edf",
+    "sector": "battery",
+    "amount_usd_m": 500,
+    "date": "2026-08-20"
   }
 }

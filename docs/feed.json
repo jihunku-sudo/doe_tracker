@@ -1,10 +1,12 @@
 {
-  "generated_at": "2026-08-19T23:17:26Z",
+  "generated_at": "2026-08-20T23:19:51Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-department-announces-500-million-secure-americas-critical-mineral-and-battery"
+  ],
   "items": [
     {
       "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university",
@@ -259,6 +261,24 @@
       "era": null
     },
     {
+      "id": "https://www.energy.gov/articles/energy-department-announces-500-million-secure-americas-critical-mineral-and-battery",
+      "date": "2026-08-20",
+      "title": "Energy Department Announces $500 Million to Secure America's Critical Mineral and Battery Supply Chains",
+      "url": "https://www.energy.gov/articles/energy-department-announces-500-million-secure-americas-critical-mineral-and-battery",
+      "source": "foa",
+      "category": "NOFO",
+      "sector": "battery",
+      "amount_usd_m": 500,
+      "blurb": "",
+      "enriched": true,
+      "sponsor": "DOE Grant Program",
+      "location": null,
+      "stage": 1,
+      "policy": null,
+      "detail_ai": "Energy Department Announces $500 Million to Secure America's Critical Mineral and Battery Supply Chains Seven selected projects will secure American critical supply chains, bolster U.S. economic and national security, and advance American energy dominance Energy.gov August 20, 2026 Estimated Read Ti",
+      "era": "edf"
+    },
+    {
       "id": "https://www.energy.gov/articles/energy-department-announces-50-million-investment-advance-affordable-reliable-and-secure",
       "date": "",
       "title": "Energy Department Announces $50 Million Investment to Advance Affordable, Reliable, and Secure Energy for Tribes",
@@ -411,24 +431,6 @@
       "category": "Procurement",
       "sector": "mixed",
       "amount_usd_m": null,
-      "blurb": "",
-      "enriched": false,
-      "sponsor": null,
-      "location": null,
-      "stage": null,
-      "policy": null,
-      "detail_ai": null,
-      "era": null
-    },
-    {
-      "id": "https://www.energy.gov/articles/energy-department-announces-625-million-investment-reinvigorate-and-expand-americas-coal",
-      "date": "",
-      "title": "Energy Department Announces $625 Million Investment to Reinvigorate and Expand America’s Coal Industry",
-      "url": "https://www.energy.gov/articles/energy-department-announces-625-million-investment-reinvigorate-and-expand-americas-coal",
-      "source": "foa",
-      "category": "NOFO",
-      "sector": "mixed",
-      "amount_usd_m": 625,
       "blurb": "",
       "enriched": false,
       "sponsor": null,
