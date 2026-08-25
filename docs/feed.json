@@ -1,27 +1,30 @@
 {
-  "generated_at": "2026-08-24T23:17:12Z",
+  "generated_at": "2026-08-25T23:19:51Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/nnsa/articles/nnsa-signs-memorandum-understanding-pacific-fusion-company-breaks-ground-high-yield",
+    "https://www.energy.gov/articles/doe-and-sba-launch-sbic-e-initiative-unleash-private-capital-american-innovation-and-small"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university",
-      "date": "2026-08-14",
-      "title": "Hydrocarbons and Geothermal Energy Office Announces Up to $10.75 Million to Support University Training and Research for Subsurface Energy Development",
-      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-1075-million-support-university",
+      "id": "https://www.energy.gov/nnsa/articles/nnsa-signs-memorandum-understanding-pacific-fusion-company-breaks-ground-high-yield",
+      "date": "2026-08-25",
+      "title": "NNSA Signs Memorandum of Understanding with Pacific Fusion as Company Breaks Ground on High-Yield Fusion Research Facility",
+      "url": "https://www.energy.gov/nnsa/articles/nnsa-signs-memorandum-understanding-pacific-fusion-company-breaks-ground-high-yield",
       "source": "foa",
       "category": "NOFO",
-      "sector": "mixed",
-      "amount_usd_m": 10,
+      "sector": "nuclear",
+      "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": null,
+      "location": "New Mexico",
       "stage": 1,
       "policy": null,
-      "detail_ai": "Hydrocarbons and Geothermal Energy Office Announces Up to $10.75 Million to Support University Training and Research for Subsurface Energy Development HGEO announced up to $10.75 million for U.S. colleges and universities, through its University Training and Research Program, to perform early-stage ",
+      "detail_ai": "NNSA Signs Memorandum of Understanding with Pacific Fusion as Company Breaks Ground on High-Yield Fusion Research Facility NNSA and Pacific Fusion signed a MOU establishing a framework for public-private collaboration as the company broke ground on its Research and Manufacturing Campus in Albuquerqu",
       "era": "edf"
     },
     {
@@ -259,6 +262,24 @@
       "era": null
     },
     {
+      "id": "https://www.energy.gov/articles/doe-and-sba-launch-sbic-e-initiative-unleash-private-capital-american-innovation-and-small",
+      "date": "2026-08-24",
+      "title": "DOE and SBA Launch SBIC-E Initiative to Unleash Private Capital for American Innovation and Small Businesses",
+      "url": "https://www.energy.gov/articles/doe-and-sba-launch-sbic-e-initiative-unleash-private-capital-american-innovation-and-small",
+      "source": "foa",
+      "category": "NOFO",
+      "sector": "nuclear",
+      "amount_usd_m": 147000,
+      "blurb": "",
+      "enriched": true,
+      "sponsor": "DOE Grant Program",
+      "location": null,
+      "stage": 1,
+      "policy": null,
+      "detail_ai": "DOE and SBA Launch SBIC-E Initiative to Unleash Private Capital for American Innovation and Small Businesses New strategic partnership expands private investment in American small businesses advancing American energy dominance. Energy.gov August 24, 2026 Estimated Read Time min WASHINGTON— The U.S.",
+      "era": "edf"
+    },
+    {
       "id": "https://www.energy.gov/articles/energy-department-announces-500-million-secure-americas-critical-mineral-and-battery",
       "date": "2026-08-20",
       "title": "Energy Department Announces $500 Million to Secure America's Critical Mineral and Battery Supply Chains",
@@ -409,24 +430,6 @@
       "url": "https://www.energy.gov/articles/energy-department-awards-contracts-begin-refilling-strategic-petroleum-reserve",
       "source": "foa",
       "category": "Award",
-      "sector": "mixed",
-      "amount_usd_m": null,
-      "blurb": "",
-      "enriched": false,
-      "sponsor": null,
-      "location": null,
-      "stage": null,
-      "policy": null,
-      "detail_ai": null,
-      "era": null
-    },
-    {
-      "id": "https://www.energy.gov/articles/energy-department-issues-solicitation-purchase-crude-oil-strategic-petroleum-reserve",
-      "date": "",
-      "title": "Energy Department Issues Solicitation to Purchase Crude Oil for the Strategic Petroleum Reserve",
-      "url": "https://www.energy.gov/articles/energy-department-issues-solicitation-purchase-crude-oil-strategic-petroleum-reserve",
-      "source": "foa",
-      "category": "Procurement",
       "sector": "mixed",
       "amount_usd_m": null,
       "blurb": "",

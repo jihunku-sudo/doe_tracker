@@ -250,5 +250,29 @@
     "sector": "battery",
     "amount_usd_m": 500,
     "date": "2026-08-20"
+  },
+  "https://www.energy.gov/nnsa/articles/nnsa-signs-memorandum-understanding-pacific-fusion-company-breaks-ground-high-yield": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "New Mexico",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "NNSA Signs Memorandum of Understanding with Pacific Fusion as Company Breaks Ground on High-Yield Fusion Research Facility NNSA and Pacific Fusion signed a MOU establishing a framework for public-private collaboration as the company broke ground on its Research and Manufacturing Campus in Albuquerqu",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-08-25"
+  },
+  "https://www.energy.gov/articles/doe-and-sba-launch-sbic-e-initiative-unleash-private-capital-american-innovation-and-small": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "DOE and SBA Launch SBIC-E Initiative to Unleash Private Capital for American Innovation and Small Businesses New strategic partnership expands private investment in American small businesses advancing American energy dominance. Energy.gov August 24, 2026 Estimated Read Time min WASHINGTON— The U.S.",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": 147000,
+    "date": "2026-08-24"
   }
 }
