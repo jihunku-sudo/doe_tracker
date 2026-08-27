@@ -1,13 +1,10 @@
 {
-  "generated_at": "2026-08-25T23:19:51Z",
+  "generated_at": "2026-08-27T04:10:45Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/nnsa/articles/nnsa-signs-memorandum-understanding-pacific-fusion-company-breaks-ground-high-yield",
-    "https://www.energy.gov/articles/doe-and-sba-launch-sbic-e-initiative-unleash-private-capital-american-innovation-and-small"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/nnsa/articles/nnsa-signs-memorandum-understanding-pacific-fusion-company-breaks-ground-high-yield",
