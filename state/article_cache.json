@@ -274,5 +274,17 @@
     "sector": "nuclear",
     "amount_usd_m": 147000,
     "date": "2026-08-24"
+  },
+  "https://www.energy.gov/nnsa/articles/nnsa-and-dtra-remove-high-risk-radioactive-source-guatemala": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "NNSA and DTRA Remove High-Risk Radioactive Source from Guatemala Working together, NNSA and DTRA removed a radioactive cobalt-60 source from a facility in Guatemala. This mission strengthens Americans’ security and keeps high-risk materials out of the wrong hands.",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-08-27"
   }
 }

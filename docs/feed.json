@@ -1,16 +1,18 @@
 {
-  "generated_at": "2026-08-27T04:10:45Z",
+  "generated_at": "2026-08-28T06:27:30Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/nnsa/articles/nnsa-and-dtra-remove-high-risk-radioactive-source-guatemala"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/nnsa/articles/nnsa-signs-memorandum-understanding-pacific-fusion-company-breaks-ground-high-yield",
-      "date": "2026-08-25",
-      "title": "NNSA Signs Memorandum of Understanding with Pacific Fusion as Company Breaks Ground on High-Yield Fusion Research Facility",
-      "url": "https://www.energy.gov/nnsa/articles/nnsa-signs-memorandum-understanding-pacific-fusion-company-breaks-ground-high-yield",
+      "id": "https://www.energy.gov/nnsa/articles/nnsa-and-dtra-remove-high-risk-radioactive-source-guatemala",
+      "date": "2026-08-27",
+      "title": "NNSA and DTRA Remove High-Risk Radioactive Source from Guatemala",
+      "url": "https://www.energy.gov/nnsa/articles/nnsa-and-dtra-remove-high-risk-radioactive-source-guatemala",
       "source": "foa",
       "category": "NOFO",
       "sector": "nuclear",
@@ -18,10 +20,10 @@
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "New Mexico",
+      "location": null,
       "stage": 1,
       "policy": null,
-      "detail_ai": "NNSA Signs Memorandum of Understanding with Pacific Fusion as Company Breaks Ground on High-Yield Fusion Research Facility NNSA and Pacific Fusion signed a MOU establishing a framework for public-private collaboration as the company broke ground on its Research and Manufacturing Campus in Albuquerqu",
+      "detail_ai": "NNSA and DTRA Remove High-Risk Radioactive Source from Guatemala Working together, NNSA and DTRA removed a radioactive cobalt-60 source from a facility in Guatemala. This mission strengthens Americans’ security and keeps high-risk materials out of the wrong hands.",
       "era": "edf"
     },
     {
