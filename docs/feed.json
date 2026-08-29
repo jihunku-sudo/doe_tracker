@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-08-28T06:27:30Z",
+  "generated_at": "2026-08-29T03:59:10Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/nnsa/articles/nnsa-and-dtra-remove-high-risk-radioactive-source-guatemala"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/nnsa/articles/nnsa-and-dtra-remove-high-risk-radioactive-source-guatemala",
