@@ -286,5 +286,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-08-27"
+  },
+  "https://www.energy.gov/hgeo/articles/energy-department-announces-national-petroleum-council-report-unlock-americas-vast": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Department Announces National Petroleum Council Report to Unlock America’s Vast Energy Resources DOE announced the release of a new National Petroleum Council report that provides recommendations to strengthen America's understanding of its vast subsurface resources and support expanded domes",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": null,
+    "date": "2026-08-31"
   }
 }

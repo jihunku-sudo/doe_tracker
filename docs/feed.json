@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-08-31T01:02:04Z",
+  "generated_at": "2026-09-01T01:32:25Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/hgeo/articles/energy-department-announces-national-petroleum-council-report-unlock-americas-vast"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/nnsa/articles/nnsa-and-dtra-remove-high-risk-radioactive-source-guatemala",
-      "date": "2026-08-27",
-      "title": "NNSA and DTRA Remove High-Risk Radioactive Source from Guatemala",
-      "url": "https://www.energy.gov/nnsa/articles/nnsa-and-dtra-remove-high-risk-radioactive-source-guatemala",
+      "id": "https://www.energy.gov/hgeo/articles/energy-department-announces-national-petroleum-council-report-unlock-americas-vast",
+      "date": "2026-08-31",
+      "title": "Energy Department Announces National Petroleum Council Report to Unlock America’s Vast Energy Resources",
+      "url": "https://www.energy.gov/hgeo/articles/energy-department-announces-national-petroleum-council-report-unlock-americas-vast",
       "source": "foa",
       "category": "NOFO",
-      "sector": "nuclear",
+      "sector": "grid",
       "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
@@ -21,7 +23,7 @@
       "location": null,
       "stage": 1,
       "policy": null,
-      "detail_ai": "NNSA and DTRA Remove High-Risk Radioactive Source from Guatemala Working together, NNSA and DTRA removed a radioactive cobalt-60 source from a facility in Guatemala. This mission strengthens Americans’ security and keeps high-risk materials out of the wrong hands.",
+      "detail_ai": "Energy Department Announces National Petroleum Council Report to Unlock America’s Vast Energy Resources DOE announced the release of a new National Petroleum Council report that provides recommendations to strengthen America's understanding of its vast subsurface resources and support expanded domes",
       "era": "edf"
     },
     {
