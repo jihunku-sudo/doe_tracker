@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-09-01T01:32:25Z",
+  "generated_at": "2026-09-02T00:45:47Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/hgeo/articles/energy-department-announces-national-petroleum-council-report-unlock-americas-vast"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/hgeo/articles/energy-department-announces-national-petroleum-council-report-unlock-americas-vast",
