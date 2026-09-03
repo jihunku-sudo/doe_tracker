@@ -298,5 +298,29 @@
     "sector": "grid",
     "amount_usd_m": null,
     "date": "2026-08-31"
+  },
+  "https://www.energy.gov/cmei/water/articles/does-office-critical-minerals-and-energy-innovation-announces-testing-facility": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Oregon",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "DOE’s Office of Critical Minerals and Energy Innovation Announces Testing Facility to Accelerate Marine Energy Innovation Through an agreement with Bonneville Power Administration, energy generated from testing activities could benefit local homes and businesses on the central coast of Oregon Hydrop",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 117,
+    "date": "2026-09-01"
+  },
+  "https://www.energy.gov/articles/fact-sheet-delivering-president-trumps-promise-unleash-prosperity-and-security-united": {
+    "enriched": true,
+    "sponsor": null,
+    "location": "Indiana",
+    "stage": 6,
+    "policy": null,
+    "detail_ai": "FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and Security for the United States and Venezuela Thanks to President Trump’s leadership, a new era of energy investment and production is taking hold in Venezuela, delivering greater prosperity and energy security for the Unit",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 7000,
+    "date": "2026-09-02"
   }
 }
