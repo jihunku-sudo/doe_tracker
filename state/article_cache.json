@@ -322,5 +322,17 @@
     "sector": "grid",
     "amount_usd_m": 7000,
     "date": "2026-09-02"
+  },
+  "https://www.energy.gov/articles/president-trumps-energy-dominance-agenda-delivering-american-energy-workers": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Nationwide",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "President Trump’s Energy Dominance Agenda is Delivering for American Energy Workers Annual Report Highlights Strong Job Growth Across the Energy Sectors Powering American Industry and Economic Growth Energy.gov September 3, 2026 Estimated Read Time min WASHINGTON— This Labor Day, the U.S.",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-09-03"
   }
 }
