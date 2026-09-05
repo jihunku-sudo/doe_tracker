@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-09-04T00:37:44Z",
+  "generated_at": "2026-09-05T00:33:14Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/articles/president-trumps-energy-dominance-agenda-delivering-american-energy-workers"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/articles/president-trumps-energy-dominance-agenda-delivering-american-energy-workers",
