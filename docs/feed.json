@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-09-08T00:51:49Z",
+  "generated_at": "2026-09-09T00:58:13Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-awards-12-million-strengthen-americas"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/president-trumps-energy-dominance-agenda-delivering-american-energy-workers",
-      "date": "2026-09-03",
-      "title": "President Trump’s Energy Dominance Agenda is Delivering for American Energy Workers",
-      "url": "https://www.energy.gov/articles/president-trumps-energy-dominance-agenda-delivering-american-energy-workers",
+      "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-awards-12-million-strengthen-americas",
+      "date": "2026-09-08",
+      "title": "Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy Workforce",
+      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-awards-12-million-strengthen-americas",
       "source": "foa",
-      "category": "NOFO",
-      "sector": "nuclear",
-      "amount_usd_m": null,
+      "category": "Award",
+      "sector": "mixed",
+      "amount_usd_m": 1,
       "blurb": "",
       "enriched": true,
-      "sponsor": "DOE Grant Program",
-      "location": "Nationwide",
+      "sponsor": null,
+      "location": "Alaska, Colorado",
       "stage": 1,
       "policy": null,
-      "detail_ai": "President Trump’s Energy Dominance Agenda is Delivering for American Energy Workers Annual Report Highlights Strong Job Growth Across the Energy Sectors Powering American Industry and Economic Growth Energy.gov September 3, 2026 Estimated Read Time min WASHINGTON— This Labor Day, the U.S.",
+      "detail_ai": "Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy Workforce HGEO announced $1.2 million for eight teams working to build a stronger workforce for geothermal heat exchange systems and shallow drilling Hydrocarbons and Geothermal Energy Office Sept",
       "era": "edf"
     },
     {

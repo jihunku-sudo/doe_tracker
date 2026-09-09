@@ -334,5 +334,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-09-03"
+  },
+  "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-awards-12-million-strengthen-americas": {
+    "enriched": true,
+    "sponsor": null,
+    "location": "Alaska, Colorado",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy Workforce HGEO announced $1.2 million for eight teams working to build a stronger workforce for geothermal heat exchange systems and shallow drilling Hydrocarbons and Geothermal Energy Office Sept",
+    "era": "edf",
+    "sector": "mixed",
+    "amount_usd_m": 1,
+    "date": "2026-09-08"
   }
 }
