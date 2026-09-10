@@ -346,5 +346,17 @@
     "sector": "mixed",
     "amount_usd_m": 1,
     "date": "2026-09-08"
+  },
+  "https://www.energy.gov/nnsa/articles/nnsa-approves-critical-modernization-milestone-los-alamos-national-laboratorys-1": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "NNSA Approves Critical Modernization Milestone for Los Alamos National Laboratory’s Flagship Accelerator Facility A production win for NNSA and the broader nuclear security mission: The LANSCE Modernization Project at Los Alamos National Laboratory has cleared its next major approval milestone, movi",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-09-09"
   }
 }

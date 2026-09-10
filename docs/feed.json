@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-09T00:58:13Z",
+  "generated_at": "2026-09-10T00:45:22Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
   "new_since_last": [
-    "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-awards-12-million-strengthen-americas"
+    "https://www.energy.gov/nnsa/articles/nnsa-approves-critical-modernization-milestone-los-alamos-national-laboratorys-1"
   ],
   "items": [
     {
-      "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-awards-12-million-strengthen-americas",
-      "date": "2026-09-08",
-      "title": "Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy Workforce",
-      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-awards-12-million-strengthen-americas",
+      "id": "https://www.energy.gov/nnsa/articles/nnsa-approves-critical-modernization-milestone-los-alamos-national-laboratorys-1",
+      "date": "2026-09-09",
+      "title": "NNSA Approves Critical Modernization Milestone for Los Alamos National Laboratory’s Flagship Accelerator Facility",
+      "url": "https://www.energy.gov/nnsa/articles/nnsa-approves-critical-modernization-milestone-los-alamos-national-laboratorys-1",
       "source": "foa",
-      "category": "Award",
-      "sector": "mixed",
-      "amount_usd_m": 1,
+      "category": "NOFO",
+      "sector": "nuclear",
+      "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
-      "sponsor": null,
-      "location": "Alaska, Colorado",
+      "sponsor": "DOE Grant Program",
+      "location": null,
       "stage": 1,
       "policy": null,
-      "detail_ai": "Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy Workforce HGEO announced $1.2 million for eight teams working to build a stronger workforce for geothermal heat exchange systems and shallow drilling Hydrocarbons and Geothermal Energy Office Sept",
+      "detail_ai": "NNSA Approves Critical Modernization Milestone for Los Alamos National Laboratory’s Flagship Accelerator Facility A production win for NNSA and the broader nuclear security mission: The LANSCE Modernization Project at Los Alamos National Laboratory has cleared its next major approval milestone, movi",
       "era": "edf"
     },
     {
