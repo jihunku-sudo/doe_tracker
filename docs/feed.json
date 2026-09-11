@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-10T00:45:22Z",
+  "generated_at": "2026-09-11T00:46:06Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
   "new_since_last": [
-    "https://www.energy.gov/nnsa/articles/nnsa-approves-critical-modernization-milestone-los-alamos-national-laboratorys-1"
+    "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-300000-help-identify-hidden"
   ],
   "items": [
     {
-      "id": "https://www.energy.gov/nnsa/articles/nnsa-approves-critical-modernization-milestone-los-alamos-national-laboratorys-1",
-      "date": "2026-09-09",
-      "title": "NNSA Approves Critical Modernization Milestone for Los Alamos National Laboratory’s Flagship Accelerator Facility",
-      "url": "https://www.energy.gov/nnsa/articles/nnsa-approves-critical-modernization-milestone-los-alamos-national-laboratorys-1",
+      "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-300000-help-identify-hidden",
+      "date": "2026-09-10",
+      "title": "Hydrocarbons and Geothermal Energy Office Announces $300,000 to Help Identify Hidden Geothermal Systems",
+      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-300000-help-identify-hidden",
       "source": "foa",
       "category": "NOFO",
-      "sector": "nuclear",
+      "sector": "grid",
       "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": null,
+      "location": "Vermont",
       "stage": 1,
       "policy": null,
-      "detail_ai": "NNSA Approves Critical Modernization Milestone for Los Alamos National Laboratory’s Flagship Accelerator Facility A production win for NNSA and the broader nuclear security mission: The LANSCE Modernization Project at Los Alamos National Laboratory has cleared its next major approval milestone, movi",
+      "detail_ai": "Hydrocarbons and Geothermal Energy Office Announces $300,000 to Help Identify Hidden Geothermal Systems Competitors will develop models and algorithms to support geologic and geophysical mapping Hydrocarbons and Geothermal Energy Office September 10, 2026 Estimated Read Time min WASHINGTON — The U.S",
       "era": "edf"
     },
     {

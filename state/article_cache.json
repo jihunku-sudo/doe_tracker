@@ -358,5 +358,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-09-09"
+  },
+  "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-300000-help-identify-hidden": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Vermont",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Hydrocarbons and Geothermal Energy Office Announces $300,000 to Help Identify Hidden Geothermal Systems Competitors will develop models and algorithms to support geologic and geophysical mapping Hydrocarbons and Geothermal Energy Office September 10, 2026 Estimated Read Time min WASHINGTON — The U.S",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": null,
+    "date": "2026-09-10"
   }
 }
