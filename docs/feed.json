@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-09-11T00:46:06Z",
+  "generated_at": "2026-09-12T00:50:06Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-300000-help-identify-hidden"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-300000-help-identify-hidden",
