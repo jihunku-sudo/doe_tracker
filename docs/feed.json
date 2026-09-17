@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-09-16T00:58:02Z",
+  "generated_at": "2026-09-17T01:01:08Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/ne/articles/westinghouse-evinci-microreactor-achieves-criticality-milestone"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-300000-help-identify-hidden",
-      "date": "2026-09-10",
-      "title": "Hydrocarbons and Geothermal Energy Office Announces $300,000 to Help Identify Hidden Geothermal Systems",
-      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-announces-300000-help-identify-hidden",
+      "id": "https://www.energy.gov/ne/articles/westinghouse-evinci-microreactor-achieves-criticality-milestone",
+      "date": "2026-09-16",
+      "title": "Westinghouse eVinci Microreactor Achieves Criticality Milestone",
+      "url": "https://www.energy.gov/ne/articles/westinghouse-evinci-microreactor-achieves-criticality-milestone",
       "source": "foa",
       "category": "NOFO",
-      "sector": "grid",
+      "sector": "nuclear",
       "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "Vermont",
+      "location": "Idaho, Nevada",
       "stage": 1,
       "policy": null,
-      "detail_ai": "Hydrocarbons and Geothermal Energy Office Announces $300,000 to Help Identify Hidden Geothermal Systems Competitors will develop models and algorithms to support geologic and geophysical mapping Hydrocarbons and Geothermal Energy Office September 10, 2026 Estimated Read Time min WASHINGTON — The U.S",
+      "detail_ai": "Westinghouse eVinci Microreactor Achieves Criticality Milestone Westinghouse Electric Company reached a key milestone earlier this month when it successfully completed criticality testing for its eVinci microreactor. Office of Nuclear Energy September 16, 2026 Estimated Read Time min Westinghouse El",
       "era": "edf"
     },
     {

@@ -370,5 +370,17 @@
     "sector": "grid",
     "amount_usd_m": null,
     "date": "2026-09-10"
+  },
+  "https://www.energy.gov/ne/articles/westinghouse-evinci-microreactor-achieves-criticality-milestone": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Idaho, Nevada",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Westinghouse eVinci Microreactor Achieves Criticality Milestone Westinghouse Electric Company reached a key milestone earlier this month when it successfully completed criticality testing for its eVinci microreactor. Office of Nuclear Energy September 16, 2026 Estimated Read Time min Westinghouse El",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-09-16"
   }
 }
