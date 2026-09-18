@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-09-17T01:01:08Z",
+  "generated_at": "2026-09-18T00:57:13Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/ne/articles/westinghouse-evinci-microreactor-achieves-criticality-milestone"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/ne/articles/westinghouse-evinci-microreactor-achieves-criticality-milestone",
