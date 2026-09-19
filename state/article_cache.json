@@ -382,5 +382,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-09-16"
+  },
+  "https://www.energy.gov/em/articles/doe-seeks-industry-input-surplus-critical-minerals-and-materials-cleanup-sites": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Kentucky, Nevada, Ohio 외 2개 주",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "DOE Seeks Industry Input on Surplus Critical Minerals and Materials at Cleanup Sites The U.S. Department of Energy's Office of Environmental Management released an expression of interest seeking input from American industry on the potential transfer of surplus critical minerals, rare earth elements ",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-09-18"
   }
 }
