@@ -394,5 +394,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-09-18"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-99-million-21-projects-advance-us-geothermal-energy": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Nationwide",
+    "stage": 3,
+    "policy": null,
+    "detail_ai": "Energy Department Announces $99 Million for 21 Projects to Advance U.S. Geothermal Energy Development Projects will test next-generation geothermal technologies and explore promising resources to support affordable, reliable, secure American energy Energy.gov September 21, 2026 Estimated Read Time m",
+    "era": "edf",
+    "sector": "mixed",
+    "amount_usd_m": 99,
+    "date": "2026-09-21"
   }
 }

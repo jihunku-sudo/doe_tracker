@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-09-21T00:45:35Z",
+  "generated_at": "2026-09-22T01:23:17Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-department-announces-99-million-21-projects-advance-us-geothermal-energy"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/em/articles/doe-seeks-industry-input-surplus-critical-minerals-and-materials-cleanup-sites",
-      "date": "2026-09-18",
-      "title": "DOE Seeks Industry Input on Surplus Critical Minerals and Materials at Cleanup Sites",
-      "url": "https://www.energy.gov/em/articles/doe-seeks-industry-input-surplus-critical-minerals-and-materials-cleanup-sites",
+      "id": "https://www.energy.gov/articles/energy-department-announces-99-million-21-projects-advance-us-geothermal-energy",
+      "date": "2026-09-21",
+      "title": "Energy Department Announces $99 Million for 21 Projects to Advance U.S. Geothermal Energy Development",
+      "url": "https://www.energy.gov/articles/energy-department-announces-99-million-21-projects-advance-us-geothermal-energy",
       "source": "foa",
       "category": "NOFO",
-      "sector": "nuclear",
-      "amount_usd_m": null,
+      "sector": "mixed",
+      "amount_usd_m": 99,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "Kentucky, Nevada, Ohio 외 2개 주",
-      "stage": 1,
+      "location": "Nationwide",
+      "stage": 3,
       "policy": null,
-      "detail_ai": "DOE Seeks Industry Input on Surplus Critical Minerals and Materials at Cleanup Sites The U.S. Department of Energy's Office of Environmental Management released an expression of interest seeking input from American industry on the potential transfer of surplus critical minerals, rare earth elements ",
+      "detail_ai": "Energy Department Announces $99 Million for 21 Projects to Advance U.S. Geothermal Energy Development Projects will test next-generation geothermal technologies and explore promising resources to support affordable, reliable, secure American energy Energy.gov September 21, 2026 Estimated Read Time m",
       "era": "edf"
     },
     {
