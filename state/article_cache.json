@@ -406,5 +406,17 @@
     "sector": "mixed",
     "amount_usd_m": 99,
     "date": "2026-09-21"
+  },
+  "https://www.energy.gov/ne/articles/department-energy-provides-rare-salt-material-natura-resources": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Idaho, Texas",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Department of Energy Provides Rare Salt Material to Natura Resources The Department of Energy in coordination with Oak Ridge National Laboratory and Idaho National Laboratory completed shipment of more than 4,700 pounds of a rare salt used in molten salt reactors to Natura Resources.",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-09-22"
   }
 }
