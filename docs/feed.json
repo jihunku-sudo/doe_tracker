@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-09-24T00:59:47Z",
+  "generated_at": "2026-09-25T01:05:46Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-department-announces-speed-power-investments-across-26-states-lower-electricity"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/ne/articles/department-energy-provides-rare-salt-material-natura-resources",
-      "date": "2026-09-22",
-      "title": "Department of Energy Provides Rare Salt Material to Natura Resources",
-      "url": "https://www.energy.gov/ne/articles/department-energy-provides-rare-salt-material-natura-resources",
+      "id": "https://www.energy.gov/articles/energy-department-announces-speed-power-investments-across-26-states-lower-electricity",
+      "date": "2026-09-24",
+      "title": "Energy Department Announces Speed to Power Investments Across 26 States to Lower Electricity Costs and Improve Grid Reliability",
+      "url": "https://www.energy.gov/articles/energy-department-announces-speed-power-investments-across-26-states-lower-electricity",
       "source": "foa",
       "category": "NOFO",
-      "sector": "nuclear",
-      "amount_usd_m": null,
+      "sector": "grid",
+      "amount_usd_m": 5250,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "Idaho, Texas",
-      "stage": 1,
+      "location": null,
+      "stage": 6,
       "policy": null,
-      "detail_ai": "Department of Energy Provides Rare Salt Material to Natura Resources The Department of Energy in coordination with Oak Ridge National Laboratory and Idaho National Laboratory completed shipment of more than 4,700 pounds of a rare salt used in molten salt reactors to Natura Resources.",
+      "detail_ai": "Energy Department Announces Speed to Power Investments Across 26 States to Lower Electricity Costs and Improve Grid Reliability The U.S. Department of Energy’s (DOE) Office of Electricity (OE) today announced its intention to help fund 31 grid-improvement projects across 26 states Energy.gov Septemb",
       "era": "edf"
     },
     {

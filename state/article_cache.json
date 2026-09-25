@@ -418,5 +418,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-09-22"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-speed-power-investments-across-26-states-lower-electricity": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 6,
+    "policy": null,
+    "detail_ai": "Energy Department Announces Speed to Power Investments Across 26 States to Lower Electricity Costs and Improve Grid Reliability The U.S. Department of Energy’s (DOE) Office of Electricity (OE) today announced its intention to help fund 31 grid-improvement projects across 26 states Energy.gov Septemb",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 5250,
+    "date": "2026-09-24"
   }
 }
