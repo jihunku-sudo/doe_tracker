@@ -430,5 +430,29 @@
     "sector": "grid",
     "amount_usd_m": 5250,
     "date": "2026-09-24"
+  },
+  "https://www.energy.gov/nnsa/articles/nnsa-conducts-nonproliferation-experiment-strengthen-americas-nuclear-explosion": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Nevada",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "NNSA Conducts Nonproliferation Experiment to Strengthen America’s Nuclear Explosion Detection Capabilities The National Nuclear Security Administration today successfully conducted a subsurface, non-nuclear chemical high-explosive experiment at the Nevada National Security Site, increasing the Unite",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-09-30"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-400-million-basic-research-advance-frontiers-science": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Nationwide",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Department Announces Up to $400 Million for Basic Research to Advance the Frontiers of Science Annual funding opportunity advances the Trump Administration’s priorities across Basic Energy Sciences, Fusion Energy Sciences, Nuclear Physics, and more. Energy.gov October 1, 2026 Estimated Read T",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": 400,
+    "date": "2026-10-01"
   }
 }
