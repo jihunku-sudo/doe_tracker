@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-10-05T01:29:12Z",
+  "generated_at": "2026-10-06T02:38:24Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/ne/articles/doe-office-nuclear-energy-announces-50m-funding-revolutionize-reactor-cladding-material"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/nnsa/articles/nnsa-conducts-nonproliferation-experiment-strengthen-americas-nuclear-explosion",
-      "date": "2026-09-30",
-      "title": "NNSA Conducts Nonproliferation Experiment to Strengthen America’s Nuclear Explosion Detection Capabilities",
-      "url": "https://www.energy.gov/nnsa/articles/nnsa-conducts-nonproliferation-experiment-strengthen-americas-nuclear-explosion",
+      "id": "https://www.energy.gov/ne/articles/doe-office-nuclear-energy-announces-50m-funding-revolutionize-reactor-cladding-material",
+      "date": "2026-10-05",
+      "title": "DOE Office of Nuclear Energy Announces $50M in Funding to Revolutionize Reactor Cladding Material",
+      "url": "https://www.energy.gov/ne/articles/doe-office-nuclear-energy-announces-50m-funding-revolutionize-reactor-cladding-material",
       "source": "foa",
       "category": "NOFO",
       "sector": "nuclear",
-      "amount_usd_m": null,
+      "amount_usd_m": 4200,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "Nevada",
+      "location": "Ohio, Pennsylvania",
       "stage": 1,
       "policy": null,
-      "detail_ai": "NNSA Conducts Nonproliferation Experiment to Strengthen America’s Nuclear Explosion Detection Capabilities The National Nuclear Security Administration today successfully conducted a subsurface, non-nuclear chemical high-explosive experiment at the Nevada National Security Site, increasing the Unite",
+      "detail_ai": "DOE Office of Nuclear Energy Announces $50M in Funding to Revolutionize Reactor Cladding Material New advanced fuel technology could lead to enhanced performance and safety of country’s reactor fleet Office of Nuclear Energy October 5, 2026 Estimated Read Time min WASHINGTON — The U.S.",
       "era": "edf"
     },
     {

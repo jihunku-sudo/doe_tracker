@@ -454,5 +454,17 @@
     "sector": "nuclear",
     "amount_usd_m": 400,
     "date": "2026-10-01"
+  },
+  "https://www.energy.gov/ne/articles/doe-office-nuclear-energy-announces-50m-funding-revolutionize-reactor-cladding-material": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Ohio, Pennsylvania",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "DOE Office of Nuclear Energy Announces $50M in Funding to Revolutionize Reactor Cladding Material New advanced fuel technology could lead to enhanced performance and safety of country’s reactor fleet Office of Nuclear Energy October 5, 2026 Estimated Read Time min WASHINGTON — The U.S.",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": 4200,
+    "date": "2026-10-05"
   }
 }
