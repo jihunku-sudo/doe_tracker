@@ -466,5 +466,41 @@
     "sector": "nuclear",
     "amount_usd_m": 4200,
     "date": "2026-10-05"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science": {
+    "enriched": true,
+    "sponsor": null,
+    "location": "California, Illinois, Washington",
+    "stage": 6,
+    "policy": null,
+    "detail_ai": "Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science Twelve newly selected Phase II and six Phase I projects to advance the frontiers of Super Intelligence (SI) for science, capping a first-year cohort of 297 projects across the Genesis Mission portfolio.",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": 159,
+    "date": "2026-10-08"
+  },
+  "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists": {
+    "enriched": true,
+    "sponsor": null,
+    "location": null,
+    "stage": 3,
+    "policy": null,
+    "detail_ai": "Department of Energy Awards $96 Million to 67 Early Career Scientists DOE’s Early Career Research Program (ECRP) Supports the Next Generation of American Scientific Leadership Across Universities, National Laboratories, and User Facilities. Energy.gov October 8, 2026 Estimated Read Time min WASHINGT",
+    "era": "edf",
+    "sector": "mixed",
+    "amount_usd_m": 96,
+    "date": "2026-10-08"
+  },
+  "https://www.energy.gov/articles/energy-department-launches-genesis-mission-graduate-fellowship-advance-american-scientific": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Department Launches Genesis Mission Graduate Fellowship to Advance American Scientific Leadership Inaugural fellowship program aims to build a robust domestic, Super Intelligence (SI)-ready scientific workforce through dual-competency training and research experiences at DOE National Labs and",
+    "era": "edf",
+    "sector": "ccs",
+    "amount_usd_m": 100,
+    "date": "2026-10-08"
   }
 }
