@@ -1,10 +1,12 @@
 {
-  "generated_at": "2026-10-10T02:01:18Z",
+  "generated_at": "2026-10-11T01:28:49Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/fact-sheet-energy-department-ushering-golden-age-american-science"
+  ],
   "items": [
     {
       "id": "https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science",
@@ -43,6 +45,24 @@
       "era": "edf"
     },
     {
+      "id": "https://www.energy.gov/articles/fact-sheet-energy-department-ushering-golden-age-american-science",
+      "date": "2026-10-09",
+      "title": "FACT SHEET: The Energy Department is Ushering in a Golden Age of American Science",
+      "url": "https://www.energy.gov/articles/fact-sheet-energy-department-ushering-golden-age-american-science",
+      "source": "foa",
+      "category": "NOFO",
+      "sector": "mixed",
+      "amount_usd_m": 96,
+      "blurb": "",
+      "enriched": true,
+      "sponsor": "DOE Grant Program",
+      "location": "Idaho",
+      "stage": 1,
+      "policy": null,
+      "detail_ai": "FACT SHEET: The Energy Department is Ushering in a Golden Age of American Science The Trump Administration is Accelerating Scientific Discovery, Securing American Technological Leadership, and Building the Next Generation of American Scientists Energy.gov October 9, 2026 Estimated Read Time min On T",
+      "era": "edf"
+    },
+    {
       "id": "https://www.energy.gov/articles/fact-sheet-golden-era-american-nuclear-energy-has-arrived",
       "date": "2026-07-25",
       "title": "FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived",
@@ -58,24 +78,6 @@
       "stage": 4,
       "policy": "Title 17 §1706 EDFP",
       "detail_ai": "FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived The Energy Department Continues to Deliver on President Trump’s Directive to Unleash American Nuclear Energy Energy.gov July 25, 2026 Estimated Read Time min THANKS TO PRESIDENT TRUMP, THE AMERICAN NUCLEAR RENAISSANCE HAS ARRIVED Afte",
-      "era": "edf"
-    },
-    {
-      "id": "https://www.energy.gov/srs/articles/fact-sheet-operational-closure-radioactive-liquid-waste-tanks",
-      "date": "2026-07-21",
-      "title": "Fact Sheet: Operational Closure of Radioactive Liquid Waste Tanks",
-      "url": "https://www.energy.gov/srs/articles/fact-sheet-operational-closure-radioactive-liquid-waste-tanks",
-      "source": "foa",
-      "category": "NOFO",
-      "sector": "nuclear",
-      "amount_usd_m": null,
-      "blurb": "",
-      "enriched": true,
-      "sponsor": "DOE Grant Program",
-      "location": "South Carolina",
-      "stage": 5,
-      "policy": null,
-      "detail_ai": "Fact Sheet: Operational Closure of Radioactive Liquid Waste Tanks Savannah River Fact Sheet on Operational Closure of Radioactive Liquid Waste Tanks Savannah River Site July 21, 2026 Estimated Read Time min The Savannah River Site (SRS) is home to the first operational closure of a radioactive liqui",
       "era": "edf"
     },
     {

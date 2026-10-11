@@ -502,5 +502,17 @@
     "sector": "ccs",
     "amount_usd_m": 100,
     "date": "2026-10-08"
+  },
+  "https://www.energy.gov/articles/fact-sheet-energy-department-ushering-golden-age-american-science": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Idaho",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "FACT SHEET: The Energy Department is Ushering in a Golden Age of American Science The Trump Administration is Accelerating Scientific Discovery, Securing American Technological Leadership, and Building the Next Generation of American Scientists Energy.gov October 9, 2026 Estimated Read Time min On T",
+    "era": "edf",
+    "sector": "mixed",
+    "amount_usd_m": 96,
+    "date": "2026-10-09"
   }
 }
