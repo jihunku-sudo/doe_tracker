@@ -1,29 +1,27 @@
 {
-  "generated_at": "2026-10-11T01:28:49Z",
+  "generated_at": "2026-10-12T01:59:19Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/articles/fact-sheet-energy-department-ushering-golden-age-american-science"
-  ],
+  "new_since_last": [],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science",
+      "id": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
       "date": "2026-10-08",
-      "title": "Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science",
-      "url": "https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science",
+      "title": "U.S. Department of Energy Awards $96 Million to 67 Early Career Scientists",
+      "url": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
       "source": "foa",
       "category": "Award",
-      "sector": "nuclear",
-      "amount_usd_m": 159,
+      "sector": "mixed",
+      "amount_usd_m": 96,
       "blurb": "",
       "enriched": true,
       "sponsor": null,
-      "location": "California, Illinois, Washington",
-      "stage": 6,
+      "location": null,
+      "stage": 3,
       "policy": null,
-      "detail_ai": "Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science Twelve newly selected Phase II and six Phase I projects to advance the frontiers of Super Intelligence (SI) for science, capping a first-year cohort of 297 projects across the Genesis Mission portfolio.",
+      "detail_ai": "Department of Energy Awards $96 Million to 67 Early Career Scientists DOE’s Early Career Research Program (ECRP) Supports the Next Generation of American Scientific Leadership Across Universities, National Laboratories, and User Facilities. Energy.gov October 8, 2026 Estimated Read Time min WASHINGT",
       "era": "edf"
     },
     {
@@ -78,24 +76,6 @@
       "stage": 4,
       "policy": "Title 17 §1706 EDFP",
       "detail_ai": "FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived The Energy Department Continues to Deliver on President Trump’s Directive to Unleash American Nuclear Energy Energy.gov July 25, 2026 Estimated Read Time min THANKS TO PRESIDENT TRUMP, THE AMERICAN NUCLEAR RENAISSANCE HAS ARRIVED Afte",
-      "era": "edf"
-    },
-    {
-      "id": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
-      "date": "2026-10-08",
-      "title": "U.S. Department of Energy Awards $96 Million to 67 Early Career Scientists",
-      "url": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
-      "source": "foa",
-      "category": "Award",
-      "sector": "mixed",
-      "amount_usd_m": 96,
-      "blurb": "",
-      "enriched": true,
-      "sponsor": null,
-      "location": null,
-      "stage": 3,
-      "policy": null,
-      "detail_ai": "Department of Energy Awards $96 Million to 67 Early Career Scientists DOE’s Early Career Research Program (ECRP) Supports the Next Generation of American Scientific Leadership Across Universities, National Laboratories, and User Facilities. Energy.gov October 8, 2026 Estimated Read Time min WASHINGT",
       "era": "edf"
     },
     {
