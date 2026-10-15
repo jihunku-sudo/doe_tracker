@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-10-14T01:31:59Z",
+  "generated_at": "2026-10-15T01:10:03Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-department-releases-emissions-value-request-process-45z-fuel-production-credit"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
-      "date": "2026-10-08",
-      "title": "U.S. Department of Energy Awards $96 Million to 67 Early Career Scientists",
-      "url": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
+      "id": "https://www.energy.gov/articles/energy-department-releases-emissions-value-request-process-45z-fuel-production-credit",
+      "date": "2026-10-14",
+      "title": "Energy Department Releases Emissions Value Request Process for 45Z Fuel Production Credit",
+      "url": "https://www.energy.gov/articles/energy-department-releases-emissions-value-request-process-45z-fuel-production-credit",
       "source": "foa",
-      "category": "Award",
+      "category": "NOFO",
       "sector": "mixed",
-      "amount_usd_m": 96,
+      "amount_usd_m": 60,
       "blurb": "",
       "enriched": true,
-      "sponsor": null,
-      "location": null,
-      "stage": 3,
+      "sponsor": "DOE Grant Program",
+      "location": "Alaska",
+      "stage": 1,
       "policy": null,
-      "detail_ai": "Department of Energy Awards $96 Million to 67 Early Career Scientists DOE’s Early Career Research Program (ECRP) Supports the Next Generation of American Scientific Leadership Across Universities, National Laboratories, and User Facilities. Energy.gov October 8, 2026 Estimated Read Time min WASHINGT",
+      "detail_ai": "Energy Department Releases Emissions Value Request Process for 45Z Fuel Production Credit The U.S. Department of Energy Alternative Fuels and Feedstocks Office released a pre-publication draft of a federal register notice announcing the Emissions Value Request process for the 45Z fuel production tax",
       "era": "edf"
     },
     {
@@ -76,6 +78,24 @@
       "stage": 4,
       "policy": "Title 17 §1706 EDFP",
       "detail_ai": "FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived The Energy Department Continues to Deliver on President Trump’s Directive to Unleash American Nuclear Energy Energy.gov July 25, 2026 Estimated Read Time min THANKS TO PRESIDENT TRUMP, THE AMERICAN NUCLEAR RENAISSANCE HAS ARRIVED Afte",
+      "era": "edf"
+    },
+    {
+      "id": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
+      "date": "2026-10-08",
+      "title": "U.S. Department of Energy Awards $96 Million to 67 Early Career Scientists",
+      "url": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
+      "source": "foa",
+      "category": "Award",
+      "sector": "mixed",
+      "amount_usd_m": 96,
+      "blurb": "",
+      "enriched": true,
+      "sponsor": null,
+      "location": null,
+      "stage": 3,
+      "policy": null,
+      "detail_ai": "Department of Energy Awards $96 Million to 67 Early Career Scientists DOE’s Early Career Research Program (ECRP) Supports the Next Generation of American Scientific Leadership Across Universities, National Laboratories, and User Facilities. Energy.gov October 8, 2026 Estimated Read Time min WASHINGT",
       "era": "edf"
     },
     {
