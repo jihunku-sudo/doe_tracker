@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-15T01:10:03Z",
+  "generated_at": "2026-10-16T00:57:06Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
   "new_since_last": [
-    "https://www.energy.gov/articles/energy-department-releases-emissions-value-request-process-45z-fuel-production-credit"
+    "https://www.energy.gov/hgeo/articles/energy-department-invests-over-11-million-strengthen-americas-energy-workforce"
   ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/energy-department-releases-emissions-value-request-process-45z-fuel-production-credit",
-      "date": "2026-10-14",
-      "title": "Energy Department Releases Emissions Value Request Process for 45Z Fuel Production Credit",
-      "url": "https://www.energy.gov/articles/energy-department-releases-emissions-value-request-process-45z-fuel-production-credit",
+      "id": "https://www.energy.gov/hgeo/articles/energy-department-invests-over-11-million-strengthen-americas-energy-workforce",
+      "date": "2026-10-15",
+      "title": "Energy Department Invests Over $11 Million to Strengthen America’s Energy Workforce",
+      "url": "https://www.energy.gov/hgeo/articles/energy-department-invests-over-11-million-strengthen-americas-energy-workforce",
       "source": "foa",
       "category": "NOFO",
       "sector": "mixed",
-      "amount_usd_m": 60,
+      "amount_usd_m": 11,
       "blurb": "",
       "enriched": true,
-      "sponsor": "DOE Grant Program",
-      "location": "Alaska",
-      "stage": 1,
+      "sponsor": "Hydrocarbons and Geothermal Energy",
+      "location": null,
+      "stage": 3,
       "policy": null,
-      "detail_ai": "Energy Department Releases Emissions Value Request Process for 45Z Fuel Production Credit The U.S. Department of Energy Alternative Fuels and Feedstocks Office released a pre-publication draft of a federal register notice announcing the Emissions Value Request process for the 45Z fuel production tax",
+      "detail_ai": "Energy Department Invests Over $11 Million to Strengthen America’s Energy Workforce Eight projects will expand hands-on training for jobs supporting oil, natural gas, coal, geothermal energy, energy infrastructure, and Tribal communities Hydrocarbons and Geothermal Energy Office October 15, 2026 Est",
       "era": "edf"
     },
     {

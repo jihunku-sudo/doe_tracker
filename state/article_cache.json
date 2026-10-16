@@ -526,5 +526,17 @@
     "sector": "mixed",
     "amount_usd_m": 60,
     "date": "2026-10-14"
+  },
+  "https://www.energy.gov/hgeo/articles/energy-department-invests-over-11-million-strengthen-americas-energy-workforce": {
+    "enriched": true,
+    "sponsor": "Hydrocarbons and Geothermal Energy",
+    "location": null,
+    "stage": 3,
+    "policy": null,
+    "detail_ai": "Energy Department Invests Over $11 Million to Strengthen America’s Energy Workforce Eight projects will expand hands-on training for jobs supporting oil, natural gas, coal, geothermal energy, energy infrastructure, and Tribal communities Hydrocarbons and Geothermal Energy Office October 15, 2026 Est",
+    "era": "edf",
+    "sector": "mixed",
+    "amount_usd_m": 11,
+    "date": "2026-10-15"
   }
 }
