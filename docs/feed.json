@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-10-17T00:57:45Z",
+  "generated_at": "2026-10-18T00:33:00Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/hgeo/articles/energy-department-invests-over-11-million-strengthen-americas-energy-workforce",
-      "date": "2026-10-15",
-      "title": "Energy Department Invests Over $11 Million to Strengthen America’s Energy Workforce",
-      "url": "https://www.energy.gov/hgeo/articles/energy-department-invests-over-11-million-strengthen-americas-energy-workforce",
+      "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig",
+      "date": "2026-10-16",
+      "title": "Hydrocarbons and Geothermal Energy Office Executes First-Ever License for TRIG Gasification Technology",
+      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig",
       "source": "foa",
       "category": "NOFO",
-      "sector": "mixed",
-      "amount_usd_m": 11,
+      "sector": "grid",
+      "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
-      "sponsor": "Hydrocarbons and Geothermal Energy",
-      "location": null,
-      "stage": 3,
-      "policy": null,
-      "detail_ai": "Energy Department Invests Over $11 Million to Strengthen America’s Energy Workforce Eight projects will expand hands-on training for jobs supporting oil, natural gas, coal, geothermal energy, energy infrastructure, and Tribal communities Hydrocarbons and Geothermal Energy Office October 15, 2026 Est",
+      "sponsor": "DOE Grant Program",
+      "location": "Mississippi, Virginia, West Virginia",
+      "stage": 1,
+      "policy": "EO 14241",
+      "detail_ai": "Hydrocarbons and Geothermal Energy Office Executes First-Ever License for TRIG Gasification Technology The executed license marks a significant milestone in the technology transfer and commercialization of a federally co developed advanced coal gasification system Hydrocarbons and Geothermal Energy ",
       "era": "edf"
     },
     {

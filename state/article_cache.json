@@ -538,5 +538,17 @@
     "sector": "mixed",
     "amount_usd_m": 11,
     "date": "2026-10-15"
+  },
+  "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Mississippi, Virginia, West Virginia",
+    "stage": 1,
+    "policy": "EO 14241",
+    "detail_ai": "Hydrocarbons and Geothermal Energy Office Executes First-Ever License for TRIG Gasification Technology The executed license marks a significant milestone in the technology transfer and commercialization of a federally co developed advanced coal gasification system Hydrocarbons and Geothermal Energy ",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": null,
+    "date": "2026-10-16"
   }
 }
