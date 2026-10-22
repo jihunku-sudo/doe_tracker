@@ -550,5 +550,17 @@
     "sector": "grid",
     "amount_usd_m": null,
     "date": "2026-10-16"
+  },
+  "https://www.energy.gov/articles/fact-sheet-energy-department-advancing-constitution-pipeline-strengthen-national-security": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "New York, Pennsylvania",
+    "stage": 1,
+    "policy": "DPA",
+    "detail_ai": "FACT SHEET: The Energy Department is Advancing the Constitution Pipeline to Strengthen National Security and Lower Energy Costs in the Northeast The Trump Administration Is Advancing the Long-Delayed Natural Gas Pipeline to Strengthen America’s Energy Security and Lower Electricity and Home Heating ",
+    "era": "edf",
+    "sector": "battery",
+    "amount_usd_m": 5000,
+    "date": "2026-10-21"
   }
 }

@@ -1,10 +1,12 @@
 {
-  "generated_at": "2026-10-21T01:11:04Z",
+  "generated_at": "2026-10-22T01:08:26Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/fact-sheet-energy-department-advancing-constitution-pipeline-strengthen-national-security"
+  ],
   "items": [
     {
       "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig",
@@ -22,6 +24,24 @@
       "stage": 1,
       "policy": "EO 14241",
       "detail_ai": "Hydrocarbons and Geothermal Energy Office Executes First-Ever License for TRIG Gasification Technology The executed license marks a significant milestone in the technology transfer and commercialization of a federally co developed advanced coal gasification system Hydrocarbons and Geothermal Energy ",
+      "era": "edf"
+    },
+    {
+      "id": "https://www.energy.gov/articles/fact-sheet-energy-department-advancing-constitution-pipeline-strengthen-national-security",
+      "date": "2026-10-21",
+      "title": "FACT SHEET: The Energy Department is Advancing the Constitution Pipeline to Strengthen National Security and Lower Energy Costs in the Northeast",
+      "url": "https://www.energy.gov/articles/fact-sheet-energy-department-advancing-constitution-pipeline-strengthen-national-security",
+      "source": "foa",
+      "category": "NOFO",
+      "sector": "battery",
+      "amount_usd_m": 5000,
+      "blurb": "",
+      "enriched": true,
+      "sponsor": "DOE Grant Program",
+      "location": "New York, Pennsylvania",
+      "stage": 1,
+      "policy": "DPA",
+      "detail_ai": "FACT SHEET: The Energy Department is Advancing the Constitution Pipeline to Strengthen National Security and Lower Energy Costs in the Northeast The Trump Administration Is Advancing the Long-Delayed Natural Gas Pipeline to Strengthen America’s Energy Security and Lower Electricity and Home Heating ",
       "era": "edf"
     },
     {
@@ -58,24 +78,6 @@
       "stage": 1,
       "policy": null,
       "detail_ai": "FACT SHEET: The Energy Department is Ushering in a Golden Age of American Science The Trump Administration is Accelerating Scientific Discovery, Securing American Technological Leadership, and Building the Next Generation of American Scientists Energy.gov October 9, 2026 Estimated Read Time min On T",
-      "era": "edf"
-    },
-    {
-      "id": "https://www.energy.gov/articles/fact-sheet-golden-era-american-nuclear-energy-has-arrived",
-      "date": "2026-07-25",
-      "title": "FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived",
-      "url": "https://www.energy.gov/articles/fact-sheet-golden-era-american-nuclear-energy-has-arrived",
-      "source": "foa",
-      "category": "NOFO",
-      "sector": "nuclear",
-      "amount_usd_m": null,
-      "blurb": "",
-      "enriched": true,
-      "sponsor": "DOE Grant Program",
-      "location": "Idaho, Michigan, Pennsylvania 외 1개 주",
-      "stage": 4,
-      "policy": "Title 17 §1706 EDFP",
-      "detail_ai": "FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived The Energy Department Continues to Deliver on President Trump’s Directive to Unleash American Nuclear Energy Energy.gov July 25, 2026 Estimated Read Time min THANKS TO PRESIDENT TRUMP, THE AMERICAN NUCLEAR RENAISSANCE HAS ARRIVED Afte",
       "era": "edf"
     },
     {
