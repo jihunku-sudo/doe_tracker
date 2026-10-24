@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-10-23T01:08:02Z",
+  "generated_at": "2026-10-24T01:19:22Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig",
-      "date": "2026-10-16",
-      "title": "Hydrocarbons and Geothermal Energy Office Executes First-Ever License for TRIG Gasification Technology",
-      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig",
+      "id": "https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply",
+      "date": "2026-10-23",
+      "title": "Energy Department Authorizes Strategic Petroleum Reserve Exchange to Support Fuel Supply Stability",
+      "url": "https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply",
       "source": "foa",
       "category": "NOFO",
-      "sector": "grid",
+      "sector": "minerals",
       "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "Mississippi, Virginia, West Virginia",
+      "location": "Louisiana",
       "stage": 1,
-      "policy": "EO 14241",
-      "detail_ai": "Hydrocarbons and Geothermal Energy Office Executes First-Ever License for TRIG Gasification Technology The executed license marks a significant milestone in the technology transfer and commercialization of a federally co developed advanced coal gasification system Hydrocarbons and Geothermal Energy ",
+      "policy": "DPA",
+      "detail_ai": "Energy Department Authorizes Strategic Petroleum Reserve Exchange to Support Fuel Supply Stability The U.S. Department of Energy (DOE) authorized the exchange to help support regional fuel availability and alleviate potential impacts on transportation fuel supply in Louisiana and surrounding region.",
       "era": "edf"
     },
     {
