@@ -574,5 +574,29 @@
     "sector": "minerals",
     "amount_usd_m": null,
     "date": "2026-10-23"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs": {
+    "enriched": true,
+    "sponsor": "Lower School Energy",
+    "location": "Illinois, Maryland, Pennsylvania",
+    "stage": 4,
+    "policy": "Title 17 §1706 EDFP",
+    "detail_ai": "Energy Department Announces $5 Billion Loan to Boost Nuclear Power and Help Lower Costs in Illinois, Maryland, and Pennsylvania The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $5 billion to finance nuclear uprates and modern",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": 5000,
+    "date": "2026-10-27"
+  },
+  "https://www.energy.gov/articles/fact-sheet-project-uprise-delivering-president-trumps-agenda-unleash-american-nuclear": {
+    "enriched": true,
+    "sponsor": "Constellation. Duane Arnold Energy",
+    "location": "Illinois, Iowa, Maryland 외 3개 주",
+    "stage": 4,
+    "policy": "Title 17 §1706 EDFP",
+    "detail_ai": "FACT SHEET: Project Uprise Is Delivering On President Trump's Agenda To Unleash American Nuclear Power The Trump Administration's Project Uprise Is Accelerating America's Nuclear Renaissance Through Reactor Uprates, Restarts, and New Construction. Energy.gov October 27, 2026 Estimated Read Time min ",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": 26500,
+    "date": "2026-10-27"
   }
 }
