@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-10-29T02:02:32Z",
+  "generated_at": "2026-10-30T02:19:51Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-strategic-petroleum-reserve-part-president"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs",
-      "date": "2026-10-27",
-      "title": "Energy Department Announces $5 Billion Loan to Boost Nuclear Power and Help Lower Costs in Illinois, Maryland, and Pennsylvania",
-      "url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs",
+      "id": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-strategic-petroleum-reserve-part-president",
+      "date": "2026-10-29",
+      "title": "Energy Department Awards Contracts from the Strategic Petroleum Reserve as Part of President Trump’s Emergency Exchange",
+      "url": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-strategic-petroleum-reserve-part-president",
       "source": "foa",
-      "category": "NOFO",
-      "sector": "nuclear",
-      "amount_usd_m": 5000,
+      "category": "Award",
+      "sector": "battery",
+      "amount_usd_m": 4000,
       "blurb": "",
       "enriched": true,
-      "sponsor": "Lower School Energy",
-      "location": "Illinois, Maryland, Pennsylvania",
-      "stage": 4,
-      "policy": "Title 17 §1706 EDFP",
-      "detail_ai": "Energy Department Announces $5 Billion Loan to Boost Nuclear Power and Help Lower Costs in Illinois, Maryland, and Pennsylvania The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $5 billion to finance nuclear uprates and modern",
+      "sponsor": null,
+      "location": null,
+      "stage": 1,
+      "policy": null,
+      "detail_ai": "Energy Department Awards Contracts from the Strategic Petroleum Reserve as Part of President Trump’s Emergency Exchange DOE has announced contract awards for an exchange of more than 40 million barrels of crude oil from the Strategic Petroleum Reserve Office of Petroleum Reserves October 29, 2026 Es",
       "era": "edf"
     },
     {

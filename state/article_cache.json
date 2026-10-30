@@ -598,5 +598,17 @@
     "sector": "nuclear",
     "amount_usd_m": 26500,
     "date": "2026-10-27"
+  },
+  "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-strategic-petroleum-reserve-part-president": {
+    "enriched": true,
+    "sponsor": null,
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Department Awards Contracts from the Strategic Petroleum Reserve as Part of President Trump’s Emergency Exchange DOE has announced contract awards for an exchange of more than 40 million barrels of crude oil from the Strategic Petroleum Reserve Office of Petroleum Reserves October 29, 2026 Es",
+    "era": "edf",
+    "sector": "battery",
+    "amount_usd_m": 4000,
+    "date": "2026-10-29"
   }
 }
