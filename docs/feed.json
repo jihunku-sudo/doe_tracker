@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-10-30T02:19:51Z",
+  "generated_at": "2026-10-31T01:56:56Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-strategic-petroleum-reserve-part-president"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-strategic-petroleum-reserve-part-president",
