@@ -610,5 +610,17 @@
     "sector": "battery",
     "amount_usd_m": 4000,
     "date": "2026-10-29"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain and Lower Electricity Costs Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America's electric grid. Energy.gov October 30, 2026 ",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 375,
+    "date": "2026-10-30"
   }
 }
