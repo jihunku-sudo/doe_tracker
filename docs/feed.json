@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-11-04T02:51:43Z",
+  "generated_at": "2026-11-05T03:01:13Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid",
-      "date": "2026-10-30",
-      "title": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain and Lower Electricity Costs",
-      "url": "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid",
+      "id": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve",
+      "date": "2026-11-04",
+      "title": "Energy Department Awards Contracts from Northeast Home Heating Oil Reserve",
+      "url": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve",
       "source": "foa",
-      "category": "NOFO",
-      "sector": "grid",
-      "amount_usd_m": 375,
+      "category": "Award",
+      "sector": "battery",
+      "amount_usd_m": 8,
       "blurb": "",
       "enriched": true,
-      "sponsor": "DOE Grant Program",
-      "location": null,
+      "sponsor": "Innovative Fusion Energy",
+      "location": "Connecticut, Massachusetts",
       "stage": 1,
       "policy": null,
-      "detail_ai": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain and Lower Electricity Costs Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America's electric grid. Energy.gov October 30, 2026 ",
+      "detail_ai": "Energy Department Awards Contracts from Northeast Home Heating Oil Reserve DOE announced contract awards for the exchange of 300,000 barrels of ultra-low sulfur distillate (fuel oil). Office of Petroleum Reserves November 4, 2026 Estimated Read Time min WASHINGTON —The U.S.",
       "era": "edf"
     },
     {
