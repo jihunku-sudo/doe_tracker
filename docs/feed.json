@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-05T03:01:13Z",
+  "generated_at": "2026-11-06T03:02:03Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
   "new_since_last": [
-    "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve"
+    "https://www.energy.gov/nnsa/articles/us-restores-key-nuclear-weapons-manufacturing-capability-after-20-years"
   ],
   "items": [
     {
-      "id": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve",
-      "date": "2026-11-04",
-      "title": "Energy Department Awards Contracts from Northeast Home Heating Oil Reserve",
-      "url": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve",
+      "id": "https://www.energy.gov/nnsa/articles/us-restores-key-nuclear-weapons-manufacturing-capability-after-20-years",
+      "date": "2026-11-05",
+      "title": "U.S. Restores Key Nuclear Weapons Manufacturing Capability After 20 Years",
+      "url": "https://www.energy.gov/nnsa/articles/us-restores-key-nuclear-weapons-manufacturing-capability-after-20-years",
       "source": "foa",
-      "category": "Award",
-      "sector": "battery",
-      "amount_usd_m": 8,
+      "category": "NOFO",
+      "sector": "nuclear",
+      "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
-      "sponsor": "Innovative Fusion Energy",
-      "location": "Connecticut, Massachusetts",
+      "sponsor": "DOE Grant Program",
+      "location": null,
       "stage": 1,
       "policy": null,
-      "detail_ai": "Energy Department Awards Contracts from Northeast Home Heating Oil Reserve DOE announced contract awards for the exchange of 300,000 barrels of ultra-low sulfur distillate (fuel oil). Office of Petroleum Reserves November 4, 2026 Estimated Read Time min WASHINGTON —The U.S.",
+      "detail_ai": "Restores Key Nuclear Weapons Manufacturing Capability After 20 Years For the first time in 20 years, the United States can once again produce a specialized material used in U.S. nuclear weapons, marking a major step toward the modernization of the nuclear stockpile.",
       "era": "edf"
     },
     {

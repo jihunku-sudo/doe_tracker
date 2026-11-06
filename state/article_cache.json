@@ -634,5 +634,17 @@
     "sector": "battery",
     "amount_usd_m": 8,
     "date": "2026-11-04"
+  },
+  "https://www.energy.gov/nnsa/articles/us-restores-key-nuclear-weapons-manufacturing-capability-after-20-years": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Restores Key Nuclear Weapons Manufacturing Capability After 20 Years For the first time in 20 years, the United States can once again produce a specialized material used in U.S. nuclear weapons, marking a major step toward the modernization of the nuclear stockpile.",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-11-05"
   }
 }
