@@ -646,5 +646,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-11-05"
+  },
+  "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "Energy Secretary Builds on Progress to Strengthen Puerto Rico’s Energy Reliability As Puerto Rico faces rising electricity demand and energy reliability challenges, the Energy Department continues its efforts to strengthen the island’s electric grid. Energy.gov November 7, 2026 Estimated Read Time m",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": null,
+    "date": "2026-11-07"
   }
 }

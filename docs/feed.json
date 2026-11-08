@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-11-07T02:29:49Z",
+  "generated_at": "2026-11-08T01:58:52Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/nnsa/articles/us-restores-key-nuclear-weapons-manufacturing-capability-after-20-years",
-      "date": "2026-11-05",
-      "title": "U.S. Restores Key Nuclear Weapons Manufacturing Capability After 20 Years",
-      "url": "https://www.energy.gov/nnsa/articles/us-restores-key-nuclear-weapons-manufacturing-capability-after-20-years",
+      "id": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
+      "date": "2026-11-07",
+      "title": "Energy Secretary Builds on Progress to Strengthen Puerto Rico’s Energy Reliability",
+      "url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
       "source": "foa",
       "category": "NOFO",
-      "sector": "nuclear",
+      "sector": "grid",
       "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
@@ -21,7 +23,7 @@
       "location": null,
       "stage": 1,
       "policy": null,
-      "detail_ai": "Restores Key Nuclear Weapons Manufacturing Capability After 20 Years For the first time in 20 years, the United States can once again produce a specialized material used in U.S. nuclear weapons, marking a major step toward the modernization of the nuclear stockpile.",
+      "detail_ai": "Energy Secretary Builds on Progress to Strengthen Puerto Rico’s Energy Reliability As Puerto Rico faces rising electricity demand and energy reliability challenges, the Energy Department continues its efforts to strengthen the island’s electric grid. Energy.gov November 7, 2026 Estimated Read Time m",
       "era": "edf"
     },
     {
