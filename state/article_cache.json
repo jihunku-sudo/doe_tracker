@@ -658,5 +658,17 @@
     "sector": "grid",
     "amount_usd_m": null,
     "date": "2026-11-07"
+  },
+  "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen": {
+    "enriched": true,
+    "sponsor": "Arena Energy",
+    "location": "Louisiana",
+    "stage": 5,
+    "policy": "Title 17 §1706 EDFP",
+    "detail_ai": "Energy Department Closes $480 Million Loan to Expand American Energy Production and Strengthen Offshore Infrastructure in the Gulf of America The U.S. Department of Energy’s (DOE) Office of Energy Dominance Financing (EDF) today announced the financial close of a $480 million loan for Arena Energy's",
+    "era": "edf",
+    "sector": "grid",
+    "amount_usd_m": 480,
+    "date": "2026-11-10"
   }
 }

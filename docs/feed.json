@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-11-10T04:27:16Z",
+  "generated_at": "2026-11-11T02:28:19Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
-      "date": "2026-11-07",
-      "title": "Energy Secretary Builds on Progress to Strengthen Puerto Rico’s Energy Reliability",
-      "url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
+      "id": "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen",
+      "date": "2026-11-10",
+      "title": "Energy Department Closes $480 Million Loan to Expand American Energy Production and Strengthen Offshore Infrastructure in the Gulf of America",
+      "url": "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen",
       "source": "foa",
       "category": "NOFO",
       "sector": "grid",
-      "amount_usd_m": null,
+      "amount_usd_m": 480,
       "blurb": "",
       "enriched": true,
-      "sponsor": "DOE Grant Program",
-      "location": null,
-      "stage": 1,
-      "policy": null,
-      "detail_ai": "Energy Secretary Builds on Progress to Strengthen Puerto Rico’s Energy Reliability As Puerto Rico faces rising electricity demand and energy reliability challenges, the Energy Department continues its efforts to strengthen the island’s electric grid. Energy.gov November 7, 2026 Estimated Read Time m",
+      "sponsor": "Arena Energy",
+      "location": "Louisiana",
+      "stage": 5,
+      "policy": "Title 17 §1706 EDFP",
+      "detail_ai": "Energy Department Closes $480 Million Loan to Expand American Energy Production and Strengthen Offshore Infrastructure in the Gulf of America The U.S. Department of Energy’s (DOE) Office of Energy Dominance Financing (EDF) today announced the financial close of a $480 million loan for Arena Energy's",
       "era": "edf"
     },
     {
       "id": "https://www.energy.gov/articles/fact-sheet-project-uprise-delivering-president-trumps-agenda-unleash-american-nuclear",
       "date": "2026-10-27",
-      "title": "FACT SHEET: Project Uprise Is Delivering On President Trump's Agenda To Unleash American Nuclear Power",
+      "title": "FACT SHEET: Project UPRISE Is Delivering On President Trump's Agenda To Unleash American Nuclear Power",
       "url": "https://www.energy.gov/articles/fact-sheet-project-uprise-delivering-president-trumps-agenda-unleash-american-nuclear",
       "source": "foa",
       "category": "NOFO",
