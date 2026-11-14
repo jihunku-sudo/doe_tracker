@@ -670,5 +670,17 @@
     "sector": "grid",
     "amount_usd_m": 480,
     "date": "2026-11-10"
+  },
+  "https://www.energy.gov/ne/articles/dow-x-energy-receive-construction-permit-advanced-nuclear-project-texas": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "Tennessee, Texas",
+    "stage": 6,
+    "policy": null,
+    "detail_ai": "Dow, X-energy Receive Construction Permit for Advanced Nuclear Project in Texas DOE-supported project becomes first advanced nuclear facility approved for construction at a U.S. Office of Nuclear Energy November 13, 2026 Estimated Read Time min Rendering of the Dow plant in Seadrift, Texas.",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": null,
+    "date": "2026-11-13"
   }
 }

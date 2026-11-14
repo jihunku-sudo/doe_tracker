@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-11-13T03:05:13Z",
+  "generated_at": "2026-11-14T02:51:39Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/ne/articles/dow-x-energy-receive-construction-permit-advanced-nuclear-project-texas"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen",
-      "date": "2026-11-10",
-      "title": "Energy Department Closes $480 Million Loan to Expand American Energy Production and Strengthen Offshore Infrastructure in the Gulf of America",
-      "url": "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen",
+      "id": "https://www.energy.gov/ne/articles/dow-x-energy-receive-construction-permit-advanced-nuclear-project-texas",
+      "date": "2026-11-13",
+      "title": "Dow, X-energy Receive Construction Permit for Advanced Nuclear Project in Texas",
+      "url": "https://www.energy.gov/ne/articles/dow-x-energy-receive-construction-permit-advanced-nuclear-project-texas",
       "source": "foa",
       "category": "NOFO",
-      "sector": "grid",
-      "amount_usd_m": 480,
+      "sector": "nuclear",
+      "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
-      "sponsor": "Arena Energy",
-      "location": "Louisiana",
-      "stage": 5,
-      "policy": "Title 17 §1706 EDFP",
-      "detail_ai": "Energy Department Closes $480 Million Loan to Expand American Energy Production and Strengthen Offshore Infrastructure in the Gulf of America The U.S. Department of Energy’s (DOE) Office of Energy Dominance Financing (EDF) today announced the financial close of a $480 million loan for Arena Energy's",
+      "sponsor": "DOE Grant Program",
+      "location": "Tennessee, Texas",
+      "stage": 6,
+      "policy": null,
+      "detail_ai": "Dow, X-energy Receive Construction Permit for Advanced Nuclear Project in Texas DOE-supported project becomes first advanced nuclear facility approved for construction at a U.S. Office of Nuclear Energy November 13, 2026 Estimated Read Time min Rendering of the Dow plant in Seadrift, Texas.",
       "era": "edf"
     },
     {
