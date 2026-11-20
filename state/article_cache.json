@@ -682,5 +682,17 @@
     "sector": "nuclear",
     "amount_usd_m": null,
     "date": "2026-11-13"
+  },
+  "https://www.energy.gov/cmei/fuels/articles/nlr-researcher-gregg-beckham-receives-us-department-energy-ernest-orlando": {
+    "enriched": true,
+    "sponsor": null,
+    "location": null,
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "NLR Researcher Gregg Beckham Receives U.S. Department of Energy Ernest Orlando Lawrence Award The National Laboratory of the Rockies’ Dr.",
+    "era": "edf",
+    "sector": "biofuel",
+    "amount_usd_m": null,
+    "date": "2026-11-18"
   }
 }

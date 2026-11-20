@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-11-19T03:56:14Z",
+  "generated_at": "2026-11-20T03:49:32Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/cmei/fuels/articles/nlr-researcher-gregg-beckham-receives-us-department-energy-ernest-orlando"
+  ],
   "items": [
     {
-      "id": "https://www.energy.gov/ne/articles/dow-x-energy-receive-construction-permit-advanced-nuclear-project-texas",
-      "date": "2026-11-13",
-      "title": "Dow, X-energy Receive Construction Permit for Advanced Nuclear Project in Texas",
-      "url": "https://www.energy.gov/ne/articles/dow-x-energy-receive-construction-permit-advanced-nuclear-project-texas",
+      "id": "https://www.energy.gov/cmei/fuels/articles/nlr-researcher-gregg-beckham-receives-us-department-energy-ernest-orlando",
+      "date": "2026-11-18",
+      "title": "NLR Researcher Gregg Beckham Receives U.S. Department of Energy Ernest Orlando Lawrence Award",
+      "url": "https://www.energy.gov/cmei/fuels/articles/nlr-researcher-gregg-beckham-receives-us-department-energy-ernest-orlando",
       "source": "foa",
-      "category": "NOFO",
-      "sector": "nuclear",
+      "category": "Award",
+      "sector": "biofuel",
       "amount_usd_m": null,
       "blurb": "",
       "enriched": true,
-      "sponsor": "DOE Grant Program",
-      "location": "Tennessee, Texas",
-      "stage": 6,
+      "sponsor": null,
+      "location": null,
+      "stage": 1,
       "policy": null,
-      "detail_ai": "Dow, X-energy Receive Construction Permit for Advanced Nuclear Project in Texas DOE-supported project becomes first advanced nuclear facility approved for construction at a U.S. Office of Nuclear Energy November 13, 2026 Estimated Read Time min Rendering of the Dow plant in Seadrift, Texas.",
+      "detail_ai": "NLR Researcher Gregg Beckham Receives U.S. Department of Energy Ernest Orlando Lawrence Award The National Laboratory of the Rockies’ Dr.",
       "era": "edf"
     },
     {
