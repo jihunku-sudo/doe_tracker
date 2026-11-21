@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-11-20T03:49:32Z",
+  "generated_at": "2026-11-21T03:42:08Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [
-    "https://www.energy.gov/cmei/fuels/articles/nlr-researcher-gregg-beckham-receives-us-department-energy-ernest-orlando"
-  ],
+  "new_since_last": [],
   "items": [
     {
       "id": "https://www.energy.gov/cmei/fuels/articles/nlr-researcher-gregg-beckham-receives-us-department-energy-ernest-orlando",
