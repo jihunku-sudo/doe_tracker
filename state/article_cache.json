@@ -694,5 +694,17 @@
     "sector": "biofuel",
     "amount_usd_m": null,
     "date": "2026-11-18"
+  },
+  "https://www.energy.gov/articles/fact-sheet-energy-department-strengthening-transatlantic-energy-security": {
+    "enriched": true,
+    "sponsor": "DOE Grant Program",
+    "location": "South Carolina",
+    "stage": 1,
+    "policy": null,
+    "detail_ai": "FACT SHEET: The Energy Department is Strengthening Transatlantic Energy Security The Trump Administration Is Expanding American Energy Exports, Advancing Nuclear Technology, and Driving Investment to Strengthen Peace, Prosperity, and Energy Security at Home and Among Our Allies Energy.gov November 2",
+    "era": "edf",
+    "sector": "nuclear",
+    "amount_usd_m": 82000,
+    "date": "2026-11-23"
   }
 }

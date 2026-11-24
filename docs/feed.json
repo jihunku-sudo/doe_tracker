@@ -1,10 +1,12 @@
 {
-  "generated_at": "2026-11-23T03:26:29Z",
+  "generated_at": "2026-11-24T06:40:28Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
-  "new_since_last": [],
+  "new_since_last": [
+    "https://www.energy.gov/articles/fact-sheet-energy-department-strengthening-transatlantic-energy-security"
+  ],
   "items": [
     {
       "id": "https://www.energy.gov/cmei/fuels/articles/nlr-researcher-gregg-beckham-receives-us-department-energy-ernest-orlando",
@@ -61,21 +63,21 @@
       "era": "edf"
     },
     {
-      "id": "https://www.energy.gov/articles/fact-sheet-energy-department-ushering-golden-age-american-science",
-      "date": "2026-10-09",
-      "title": "FACT SHEET: The Energy Department is Ushering in a Golden Age of American Science",
-      "url": "https://www.energy.gov/articles/fact-sheet-energy-department-ushering-golden-age-american-science",
+      "id": "https://www.energy.gov/articles/fact-sheet-energy-department-strengthening-transatlantic-energy-security",
+      "date": "2026-11-23",
+      "title": "FACT SHEET: The Energy Department is Strengthening Transatlantic Energy Security",
+      "url": "https://www.energy.gov/articles/fact-sheet-energy-department-strengthening-transatlantic-energy-security",
       "source": "foa",
       "category": "NOFO",
-      "sector": "mixed",
-      "amount_usd_m": 96,
+      "sector": "nuclear",
+      "amount_usd_m": 82000,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "Idaho",
+      "location": "South Carolina",
       "stage": 1,
       "policy": null,
-      "detail_ai": "FACT SHEET: The Energy Department is Ushering in a Golden Age of American Science The Trump Administration is Accelerating Scientific Discovery, Securing American Technological Leadership, and Building the Next Generation of American Scientists Energy.gov October 9, 2026 Estimated Read Time min On T",
+      "detail_ai": "FACT SHEET: The Energy Department is Strengthening Transatlantic Energy Security The Trump Administration Is Expanding American Energy Exports, Advancing Nuclear Technology, and Driving Investment to Strengthen Peace, Prosperity, and Energy Security at Home and Among Our Allies Energy.gov November 2",
       "era": "edf"
     },
     {
