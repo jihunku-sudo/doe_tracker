@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T06:40:28Z",
+  "generated_at": "2026-11-25T05:11:28Z",
   "sources": [
     "https://www.energy.gov/edf/listings/projects",
     "https://www.energy.gov/listings/recent-funding-opportunities-announcements"
   ],
   "new_since_last": [
-    "https://www.energy.gov/articles/fact-sheet-energy-department-strengthening-transatlantic-energy-security"
+    "https://www.energy.gov/articles/fact-sheet-energy-department-delivering-president-trumps-genesis-mission"
   ],
   "items": [
     {
@@ -63,21 +63,21 @@
       "era": "edf"
     },
     {
-      "id": "https://www.energy.gov/articles/fact-sheet-energy-department-strengthening-transatlantic-energy-security",
-      "date": "2026-11-23",
-      "title": "FACT SHEET: The Energy Department is Strengthening Transatlantic Energy Security",
-      "url": "https://www.energy.gov/articles/fact-sheet-energy-department-strengthening-transatlantic-energy-security",
+      "id": "https://www.energy.gov/articles/fact-sheet-energy-department-delivering-president-trumps-genesis-mission",
+      "date": "2026-11-24",
+      "title": "FACT SHEET: The Energy Department is Delivering on President Trump's Genesis Mission",
+      "url": "https://www.energy.gov/articles/fact-sheet-energy-department-delivering-president-trumps-genesis-mission",
       "source": "foa",
       "category": "NOFO",
       "sector": "nuclear",
-      "amount_usd_m": 82000,
+      "amount_usd_m": 2500,
       "blurb": "",
       "enriched": true,
       "sponsor": "DOE Grant Program",
-      "location": "South Carolina",
+      "location": "Idaho",
       "stage": 1,
       "policy": null,
-      "detail_ai": "FACT SHEET: The Energy Department is Strengthening Transatlantic Energy Security The Trump Administration Is Expanding American Energy Exports, Advancing Nuclear Technology, and Driving Investment to Strengthen Peace, Prosperity, and Energy Security at Home and Among Our Allies Energy.gov November 2",
+      "detail_ai": "FACT SHEET: The Energy Department is Delivering on President Trump's Genesis Mission In just one year, President Trump’s Genesis Mission has mobilized America’s scientific enterprise, secured billions in public-private partnerships, and laid the foundation for a new era of scientific discovery.",
       "era": "edf"
     },
     {
